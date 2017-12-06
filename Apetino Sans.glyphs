@@ -2397,7 +2397,7 @@ unicode = 0031;
 {
 color = 2;
 glyphname = two;
-lastChange = "2017-12-06 08:35:43 +0000";
+lastChange = "2017-12-06 08:52:00 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -2422,7 +2422,6 @@ nodes = (
 "50 0 LINE",
 "450 0 LINE",
 "450 100 LINE",
-"314 100 LINE",
 "185 100 LINE",
 "450 365 LINE",
 "450 400 LINE"
