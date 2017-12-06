@@ -6437,6 +6437,7 @@ width = 150;
 {
 export = 0;
 glyphname = "rect-300.comp";
+lastChange = "2017-12-06 07:53:09 +0000";
 layers = (
 {
 components = (
