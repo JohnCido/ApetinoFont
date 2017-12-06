@@ -3101,27 +3101,27 @@ layers = (
 components = (
 {
 name = "curve-2.comp";
-transform = "{1, 0, 0, -1, 191.5, 400}";
+transform = "{1, 0, 0, -1, 200, 400}";
 },
 {
 name = "rect-50.comp";
-transform = "{1, 0, 0, 1, 141.5, 150}";
+transform = "{1, 0, 0, 1, 150, 150}";
 },
 {
 name = "rect-100.comp";
-transform = "{1, 0, 0, 1, 141.5, 0}";
+transform = "{1, 0, 0, 1, 150, 0}";
 },
 {
 name = "oval-half-clip45.comp";
-transform = "{-1, 0, 0, 1, 391.5, 400}";
+transform = "{-1, 0, 0, 1, 400, 400}";
 },
 {
 name = "rect-100.comp";
-transform = "{1, 0, 0, 1, 141.5, 200}";
+transform = "{1, 0, 0, 1, 150, 200}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 491.5;
+width = 500;
 }
 );
 unicode = 003F;
