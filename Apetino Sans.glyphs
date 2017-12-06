@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+3
+);
 classes = (
 {
 automatic = 1;
@@ -1071,7 +1074,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2017-12-06 05:44:51 +0000";
+lastChange = "2017-12-06 09:09:05 +0000";
 layers = (
 {
 components = (
@@ -1080,12 +1083,12 @@ name = oval.comp;
 transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
-name = "rect-200.comp";
+name = "rect-400.comp";
 transform = "{1, 0, 0, 1, 350, 0}";
 },
 {
-name = "oval-half.comp";
-transform = "{1, 0, 0, -1, 50, 0}";
+name = "oval-half-clip45.comp";
+transform = "{-1, 0, 0, -1, 450, 0}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -2896,25 +2899,25 @@ unicode = 00B7;
 },
 {
 glyphname = bullet;
-lastChange = "2017-12-06 07:55:10 +0000";
+lastChange = "2017-12-06 09:09:54 +0000";
 layers = (
 {
 components = (
 {
 name = "curve-1.comp";
-transform = "{1, 0, 0, -1, 150, 200}";
+transform = "{1, 0, 0, -1, 150, 300}";
 },
 {
 name = "curve-1.comp";
-transform = "{1, 0, 0, 1, 150, 200}";
+transform = "{1, 0, 0, 1, 150, 300}";
 },
 {
 name = "curve-1.comp";
-transform = "{-1, 0, 0, 1, 150, 200}";
+transform = "{-1, 0, 0, 1, 150, 300}";
 },
 {
 name = "curve-1.comp";
-transform = "{-1, 0, 0, -1, 150, 200}";
+transform = "{-1, 0, 0, -1, 150, 300}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
