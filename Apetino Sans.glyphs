@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"@¶§/curve-3.comp ©®/trademark |¦/dagger/daggerdbl"
-);
 classes = (
 {
 automatic = 1;
@@ -31,6 +28,7 @@ copyright = "Copyright © 2017 by John Cido. All rights reserved.";
 date = "2017-12-02 09:09:58 +0000";
 designer = "John Cido";
 designerURL = johncido.info;
+disablesAutomaticAlignment = 1;
 familyName = "Apetino Sans";
 featurePrefixes = (
 {
@@ -3479,8 +3477,9 @@ width = 300;
 unicode = 002D;
 },
 {
+color = 2;
 glyphname = guillemetleft;
-lastChange = "2017-12-03 07:57:06 +0000";
+lastChange = "2017-12-06 08:49:22 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -3514,8 +3513,9 @@ width = 505;
 unicode = 00AB;
 },
 {
+color = 2;
 glyphname = guillemetright;
-lastChange = "2017-12-03 07:57:06 +0000";
+lastChange = "2017-12-06 08:49:22 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -3549,8 +3549,9 @@ width = 505;
 unicode = 00BB;
 },
 {
+color = 2;
 glyphname = guilsinglleft;
-lastChange = "2017-12-03 07:57:06 +0000";
+lastChange = "2017-12-06 08:49:22 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -3573,8 +3574,9 @@ width = 305;
 unicode = 2039;
 },
 {
+color = 2;
 glyphname = guilsinglright;
-lastChange = "2017-12-03 07:57:06 +0000";
+lastChange = "2017-12-06 08:49:22 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
