@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-X
+/quotedblbase/quotesinglbase
 );
 classes = (
 {
@@ -3562,6 +3562,23 @@ width = 305;
 unicode = 203A;
 },
 {
+glyphname = quotedblbase;
+lastChange = "2017-12-07 14:21:00 +0000";
+layers = (
+{
+components = (
+{
+name = quotedbl;
+transform = "{1, 0, 0, 1, -19, -500}";
+}
+);
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+width = 472;
+}
+);
+unicode = 201E;
+},
+{
 glyphname = quotedblleft;
 lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
@@ -3632,6 +3649,23 @@ width = 200;
 }
 );
 unicode = 2019;
+},
+{
+glyphname = quotesinglbase;
+lastChange = "2017-12-07 14:21:26 +0000";
+layers = (
+{
+components = (
+{
+name = quotesingle;
+transform = "{1, 0, 0, 1, -19.187, -499.775}";
+}
+);
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+width = 272;
+}
+);
+unicode = 201A;
 },
 {
 glyphname = space;
