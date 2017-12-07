@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/lozenge
-);
 classes = (
 {
 automatic = 1;
@@ -42,7 +39,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012# ignore sub @All a' p e t i n o;\012# sub a' p e t i n o by a.init;";
+code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012#sub copyright by parenleft C parenright;\012#sub registered by parenleft R parenright;\012#sub at by parenleft a parenright;\012# ignore sub @All a' p e t i n o;\012# sub a' p e t i n o by a.init;";
 name = calt;
 },
 {
@@ -4043,7 +4040,7 @@ unicode = 003C;
 {
 color = 2;
 glyphname = greaterequal;
-lastChange = "2017-12-06 11:34:40 +0000";
+lastChange = "2017-12-07 09:38:45 +0000";
 layers = (
 {
 components = (
@@ -4845,61 +4842,29 @@ unicode = 25CA;
 },
 {
 glyphname = at;
-lastChange = "2017-12-06 08:40:07 +0000";
+lastChange = "2017-12-07 11:17:48 +0000";
 layers = (
 {
 components = (
 {
-name = "curve-3.comp";
-transform = "{-1, 0, 0, -1, 350, 300}";
+name = "curve-4.comp";
+transform = "{1, 0, 0, 1, 250, 200}";
 },
 {
-name = "rect-200.comp";
-transform = "{0, -1, 1, 0, 450, 250}";
+name = "oval-1.comp";
+transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = "rect-100.comp";
+transform = "{1, 0, 0, 1, 450, 0}";
+},
+{
+name = "rect-200.comp";
+transform = "{1, 0, 0, 1, 550, 0}";
+},
+{
+name = "rect-200.comp";
 transform = "{1, 0, 0, 1, 350, 0}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{-1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{-1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{-1, 0, 0, 1, 350, 300}";
-},
-{
-name = "rect-100.comp";
-transform = "{1, 0, 0, 1, 400, 150}";
-},
-{
-name = "rect-200.comp";
-transform = "{0, -1, 1, 0, 450, 100}";
-},
-{
-name = "rect-50.comp";
-transform = "{1, 0, 0, 1, 400, 250}";
-},
-{
-name = "rect-50.comp";
-transform = "{1, 0, 0, 1, 550, 250}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -5081,98 +5046,114 @@ unicode = 00A7;
 },
 {
 glyphname = copyright;
-lastChange = "2017-12-06 08:42:17 +0000";
+lastChange = "2017-12-07 11:23:59 +0000";
 layers = (
 {
 components = (
 {
-name = "curve-3.comp";
-transform = "{1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{-1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{-1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{-1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-1.5-clip45.comp";
-transform = "{1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{-1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-1.5-clip45.comp";
-transform = "{1, 0, 0, 1, 350, 300}";
+name = c;
+transform = "{1, 0, 0, 1, 200, 0}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 700;
+paths = (
+{
+closed = 1;
+nodes = (
+"50 127 OFFCURVE",
+"70 59 OFFCURVE",
+"104 0 CURVE",
+"227 0 LINE",
+"179.5 53 OFFCURVE",
+"150 123 OFFCURVE",
+"150 200 CURVE SMOOTH",
+"150 277 OFFCURVE",
+"179.5 347 OFFCURVE",
+"227 400 CURVE",
+"104 400 LINE",
+"70 341 OFFCURVE",
+"50 273 OFFCURVE",
+"50 200 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"796 0 LINE",
+"830.5 59 OFFCURVE",
+"850 127 OFFCURVE",
+"850 200 CURVE SMOOTH",
+"850 273 OFFCURVE",
+"830.5 341 OFFCURVE",
+"796 400 CURVE",
+"673.5 400 LINE",
+"721 347 OFFCURVE",
+"750 277 OFFCURVE",
+"750 200 CURVE SMOOTH",
+"750 123 OFFCURVE",
+"721 53 OFFCURVE",
+"673.5 0 CURVE"
+);
+}
+);
+width = 900;
 }
 );
 unicode = 00A9;
 },
 {
 glyphname = registered;
-lastChange = "2017-12-06 08:43:35 +0000";
+lastChange = "2017-12-07 11:24:43 +0000";
 layers = (
 {
 components = (
 {
-name = "curve-3.comp";
-transform = "{1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{-1, 0, 0, 1, 350, 300}";
-},
-{
-name = "curve-3.comp";
-transform = "{-1, 0, 0, -1, 350, 300}";
-},
-{
-name = "curve-1.comp";
-transform = "{1, 0, 0, 1, 400, 350}";
-},
-{
-name = "rect-50.comp";
-transform = "{0, -1, 1, 0, 350, 450}";
-},
-{
-name = "rect-200.comp";
-transform = "{1, 0, 0, 1, 250, 150}";
-},
-{
-name = "rect-100.comp";
-transform = "{1, 0, 0, 1, 250, 350}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{1, 0, 0, 1, 350, 150}";
-},
-{
-name = "curve-1.5.comp";
-transform = "{1, 0, 0, -1, 350, 350}";
+name = R.sc;
+transform = "{1, 0, 0, 1, 250, 0}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 700;
+paths = (
+{
+closed = 1;
+nodes = (
+"50 127 OFFCURVE",
+"70 59 OFFCURVE",
+"104 0 CURVE",
+"227 0 LINE",
+"179.5 53 OFFCURVE",
+"150 123 OFFCURVE",
+"150 200 CURVE SMOOTH",
+"150 277 OFFCURVE",
+"179.5 347 OFFCURVE",
+"227 400 CURVE",
+"104 400 LINE",
+"70 341 OFFCURVE",
+"50 273 OFFCURVE",
+"50 200 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 0 LINE",
+"930.5 59 OFFCURVE",
+"950 127 OFFCURVE",
+"950 200 CURVE SMOOTH",
+"950 273 OFFCURVE",
+"930.5 341 OFFCURVE",
+"896 400 CURVE",
+"773.5 400 LINE",
+"821 347 OFFCURVE",
+"850 277 OFFCURVE",
+"850 200 CURVE SMOOTH",
+"850 123 OFFCURVE",
+"821 53 OFFCURVE",
+"773.5 0 CURVE"
+);
+}
+);
+width = 1000;
 }
 );
 unicode = 00AE;
@@ -5937,6 +5918,7 @@ name = Standard;
 weightClass = Bold;
 }
 );
+keepAlternatesTogether = 1;
 kerning = {
 "156A2E6C-2CEB-4630-8DE9-705D0EDBB142" = {
 "@MMK_L_V" = {
