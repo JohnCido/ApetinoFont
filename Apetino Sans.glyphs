@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+X
+);
 classes = (
 {
 automatic = 1;
@@ -758,13 +761,13 @@ unicode = 0057;
 },
 {
 glyphname = X;
-lastChange = "2017-12-06 06:20:00 +0000";
+lastChange = "2017-12-07 14:17:16 +0000";
 layers = (
 {
 components = (
 {
 name = "oval-half.comp";
-transform = "{1, 0, 0, 1, 50, 100.904}";
+transform = "{1, 0, 0, 1, 50, 150}";
 },
 {
 name = "rect-100.comp";
@@ -772,7 +775,7 @@ transform = "{1, 0, 0, 1, 350, 0}";
 },
 {
 name = "oval-half.comp";
-transform = "{1, 0, 0, -1, 50, 500}";
+transform = "{1, 0, 0, -1, 50, 450}";
 },
 {
 name = "rect-100.comp";
@@ -785,6 +788,22 @@ transform = "{1, 0, 0, 1, 350, 500}";
 {
 name = "rect-100.comp";
 transform = "{1, 0, 0, 1, 50, 500}";
+},
+{
+name = "rect-50.comp";
+transform = "{1, 0, 0, 1, 50, 450}";
+},
+{
+name = "rect-50.comp";
+transform = "{1, 0, 0, 1, 50, 100}";
+},
+{
+name = "rect-50.comp";
+transform = "{1, 0, 0, 1, 350, 100}";
+},
+{
+name = "rect-50.comp";
+transform = "{1, 0, 0, 1, 350, 450}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1528,7 +1547,7 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2017-12-06 05:55:42 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -1808,7 +1827,7 @@ width = 200;
 },
 {
 glyphname = J.sc;
-lastChange = "2017-12-06 07:15:26 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -1874,7 +1893,7 @@ width = 500;
 },
 {
 glyphname = L.sc;
-lastChange = "2017-12-06 07:19:54 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -1894,7 +1913,7 @@ width = 350;
 },
 {
 glyphname = M.sc;
-lastChange = "2017-12-06 07:20:57 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -1930,7 +1949,7 @@ width = 500;
 },
 {
 glyphname = N.sc;
-lastChange = "2017-12-06 07:21:17 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -1946,7 +1965,7 @@ width = 500;
 },
 {
 glyphname = O.sc;
-lastChange = "2017-12-06 07:23:18 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -1969,7 +1988,7 @@ width = 500;
 },
 {
 glyphname = P.sc;
-lastChange = "2017-12-06 07:24:55 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2001,7 +2020,7 @@ width = 450;
 },
 {
 glyphname = Q.sc;
-lastChange = "2017-12-06 07:25:19 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2020,7 +2039,7 @@ width = 500;
 },
 {
 glyphname = R.sc;
-lastChange = "2017-12-06 07:26:34 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2064,7 +2083,7 @@ width = 500;
 },
 {
 glyphname = S.sc;
-lastChange = "2017-12-06 07:28:45 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2104,7 +2123,7 @@ width = 450;
 },
 {
 glyphname = T.sc;
-lastChange = "2017-12-06 07:29:14 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2128,7 +2147,7 @@ width = 400;
 },
 {
 glyphname = U.sc;
-lastChange = "2017-12-06 07:36:12 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2168,7 +2187,7 @@ width = 500;
 },
 {
 glyphname = V.sc;
-lastChange = "2017-12-06 07:36:44 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2188,7 +2207,7 @@ width = 500;
 },
 {
 glyphname = W.sc;
-lastChange = "2017-12-06 07:37:34 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2224,7 +2243,7 @@ width = 500;
 },
 {
 glyphname = X.sc;
-lastChange = "2017-12-06 07:38:17 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2272,7 +2291,7 @@ width = 500;
 },
 {
 glyphname = Y.sc;
-lastChange = "2017-12-06 07:38:59 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2292,7 +2311,7 @@ width = 500;
 },
 {
 glyphname = Z.sc;
-lastChange = "2017-12-06 07:39:24 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2316,7 +2335,7 @@ width = 500;
 },
 {
 glyphname = uni70B9;
-lastChange = "2017-12-06 07:53:43 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2334,7 +2353,7 @@ unicode = 70B9;
 {
 color = 0;
 glyphname = zero;
-lastChange = "2017-12-07 11:49:50 +0000";
+lastChange = "2017-12-07 11:55:26 +0000";
 layers = (
 {
 components = (
@@ -2365,7 +2384,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2017-12-07 11:37:55 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2425,7 +2444,7 @@ unicode = 0032;
 },
 {
 glyphname = three;
-lastChange = "2017-12-07 11:38:10 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2458,7 +2477,7 @@ unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2017-12-07 11:37:24 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2499,7 +2518,7 @@ unicode = 0034;
 },
 {
 glyphname = five;
-lastChange = "2017-12-07 11:40:51 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2536,7 +2555,7 @@ unicode = 0035;
 },
 {
 glyphname = six;
-lastChange = "2017-12-07 11:40:07 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2561,7 +2580,7 @@ unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2017-12-07 11:40:06 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2594,7 +2613,7 @@ unicode = 0037;
 },
 {
 glyphname = eight;
-lastChange = "2017-12-07 11:37:27 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2623,7 +2642,7 @@ unicode = 0038;
 },
 {
 glyphname = nine;
-lastChange = "2017-12-07 11:40:05 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2648,7 +2667,7 @@ unicode = 0039;
 },
 {
 glyphname = zero.tf;
-lastChange = "2017-12-06 07:50:03 +0000";
+lastChange = "2017-12-07 11:55:25 +0000";
 layers = (
 {
 components = (
@@ -2663,7 +2682,7 @@ width = 500;
 },
 {
 glyphname = one.tf;
-lastChange = "2017-12-06 07:49:52 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2679,7 +2698,7 @@ width = 500;
 },
 {
 glyphname = two.tf;
-lastChange = "2017-12-06 07:49:58 +0000";
+lastChange = "2017-12-07 11:55:25 +0000";
 layers = (
 {
 components = (
@@ -2694,7 +2713,7 @@ width = 500;
 },
 {
 glyphname = three.tf;
-lastChange = "2017-12-06 07:48:58 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2709,7 +2728,7 @@ width = 500;
 },
 {
 glyphname = four.tf;
-lastChange = "2017-12-06 07:49:05 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2724,7 +2743,7 @@ width = 500;
 },
 {
 glyphname = five.tf;
-lastChange = "2017-12-06 07:49:13 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2739,7 +2758,7 @@ width = 500;
 },
 {
 glyphname = six.tf;
-lastChange = "2017-12-06 07:49:20 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2754,7 +2773,7 @@ width = 500;
 },
 {
 glyphname = seven.tf;
-lastChange = "2017-12-06 07:49:25 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2769,7 +2788,7 @@ width = 500;
 },
 {
 glyphname = eight.tf;
-lastChange = "2017-12-06 07:49:30 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2784,7 +2803,7 @@ width = 500;
 },
 {
 glyphname = nine.tf;
-lastChange = "2017-12-06 07:49:38 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2821,7 +2840,7 @@ unicode = 2044;
 },
 {
 glyphname = periodcentered.alt;
-lastChange = "2017-12-07 11:30:45 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2837,7 +2856,7 @@ width = 200;
 },
 {
 glyphname = colon.alt;
-lastChange = "2017-12-07 11:50:14 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2853,7 +2872,7 @@ width = 200;
 },
 {
 glyphname = asterisk;
-lastChange = "2017-12-07 11:45:50 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2878,7 +2897,7 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2017-12-07 11:45:11 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -2895,7 +2914,7 @@ unicode = 005C;
 },
 {
 glyphname = periodcentered;
-lastChange = "2017-12-06 07:54:08 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2912,7 +2931,7 @@ unicode = 00B7;
 },
 {
 glyphname = bullet;
-lastChange = "2017-12-06 09:09:54 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -2941,7 +2960,7 @@ unicode = 2022;
 },
 {
 glyphname = colon;
-lastChange = "2017-12-07 11:50:14 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2962,7 +2981,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2017-12-07 11:44:17 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -2983,7 +3002,7 @@ unicode = 002C;
 },
 {
 glyphname = ellipsis;
-lastChange = "2017-12-06 07:56:23 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3008,7 +3027,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2017-12-07 11:45:23 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3033,7 +3052,7 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2017-12-07 11:32:27 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3106,7 +3125,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2017-12-07 11:44:32 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3123,7 +3142,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2017-12-07 11:44:48 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3156,7 +3175,7 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2017-12-07 11:32:27 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3173,7 +3192,7 @@ unicode = 00BF;
 },
 {
 glyphname = quotedbl;
-lastChange = "2017-12-07 11:44:57 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -3216,7 +3235,7 @@ unicode = 0027;
 },
 {
 glyphname = semicolon;
-lastChange = "2017-12-07 11:45:03 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3259,7 +3278,7 @@ unicode = 002F;
 },
 {
 glyphname = underscore;
-lastChange = "2017-12-07 11:40:17 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3276,7 +3295,7 @@ unicode = 005F;
 },
 {
 glyphname = braceleft;
-lastChange = "2017-12-07 11:45:15 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3313,7 +3332,7 @@ unicode = 007B;
 },
 {
 glyphname = braceright;
-lastChange = "2017-12-07 11:45:15 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3330,7 +3349,7 @@ unicode = 007D;
 },
 {
 glyphname = bracketleft;
-lastChange = "2017-12-07 11:45:14 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3355,7 +3374,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2017-12-07 11:45:14 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3372,7 +3391,7 @@ unicode = 005D;
 },
 {
 glyphname = parenleft;
-lastChange = "2017-12-07 11:50:04 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3397,7 +3416,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2017-12-07 11:50:04 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3414,7 +3433,7 @@ unicode = 0029;
 },
 {
 glyphname = emdash;
-lastChange = "2017-12-07 11:40:27 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3431,7 +3450,7 @@ unicode = 2014;
 },
 {
 glyphname = endash;
-lastChange = "2017-12-07 11:29:32 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3448,7 +3467,7 @@ unicode = 2013;
 },
 {
 glyphname = hyphen;
-lastChange = "2017-12-07 11:40:23 +0000";
+lastChange = "2017-12-07 11:55:26 +0000";
 layers = (
 {
 components = (
@@ -3465,7 +3484,7 @@ unicode = 002D;
 },
 {
 glyphname = guillemetleft;
-lastChange = "2017-12-07 11:39:15 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3485,7 +3504,7 @@ unicode = 00AB;
 },
 {
 glyphname = guillemetright;
-lastChange = "2017-12-07 11:39:15 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3527,7 +3546,7 @@ unicode = 2039;
 },
 {
 glyphname = guilsinglright;
-lastChange = "2017-12-07 11:38:26 +0000";
+lastChange = "2017-12-07 11:55:26 +0000";
 layers = (
 {
 components = (
@@ -3544,7 +3563,7 @@ unicode = 203A;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2017-12-07 11:43:02 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3565,7 +3584,7 @@ unicode = 201C;
 },
 {
 glyphname = quotedblright;
-lastChange = "2017-12-07 11:41:06 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3582,7 +3601,7 @@ unicode = 201D;
 },
 {
 glyphname = quoteleft;
-lastChange = "2017-12-07 11:42:37 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3599,7 +3618,7 @@ unicode = 2018;
 },
 {
 glyphname = quoteright;
-lastChange = "2017-12-07 11:41:06 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3627,7 +3646,7 @@ unicode = 0020;
 },
 {
 glyphname = cent;
-lastChange = "2017-12-06 08:20:23 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3724,7 +3743,7 @@ unicode = 00A4;
 },
 {
 glyphname = dollar;
-lastChange = "2017-12-07 11:45:36 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3748,7 +3767,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2017-12-06 08:25:04 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3789,7 +3808,7 @@ unicode = 20AC;
 },
 {
 glyphname = sterling;
-lastChange = "2017-12-06 08:27:43 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3872,7 +3891,7 @@ unicode = 00A5;
 },
 {
 glyphname = plus;
-lastChange = "2017-12-07 11:43:17 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3893,7 +3912,7 @@ unicode = 002B;
 },
 {
 glyphname = minus;
-lastChange = "2017-12-06 08:28:24 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3910,7 +3929,7 @@ unicode = 2212;
 },
 {
 glyphname = multiply;
-lastChange = "2017-12-06 08:29:07 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3931,7 +3950,7 @@ unicode = 00D7;
 },
 {
 glyphname = divide;
-lastChange = "2017-12-06 08:29:34 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -3956,7 +3975,7 @@ unicode = 00F7;
 },
 {
 glyphname = equal;
-lastChange = "2017-12-07 11:45:19 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -4980,7 +4999,7 @@ unicode = 0026;
 },
 {
 glyphname = paragraph;
-lastChange = "2017-12-06 08:40:40 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5013,7 +5032,7 @@ unicode = 00B6;
 },
 {
 glyphname = section;
-lastChange = "2017-12-06 08:41:38 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5066,7 +5085,7 @@ unicode = 00A7;
 },
 {
 glyphname = copyright;
-lastChange = "2017-12-07 11:23:59 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5123,7 +5142,7 @@ unicode = 00A9;
 },
 {
 glyphname = registered;
-lastChange = "2017-12-07 11:24:43 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5180,7 +5199,7 @@ unicode = 00AE;
 },
 {
 glyphname = trademark;
-lastChange = "2017-12-06 08:44:32 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5229,7 +5248,7 @@ unicode = 2122;
 },
 {
 glyphname = degree;
-lastChange = "2017-12-06 11:45:09 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5246,7 +5265,7 @@ unicode = 00B0;
 },
 {
 glyphname = bar;
-lastChange = "2017-12-07 11:45:09 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5263,7 +5282,7 @@ unicode = 007C;
 },
 {
 glyphname = brokenbar;
-lastChange = "2017-12-06 08:45:07 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5292,7 +5311,7 @@ unicode = 00A6;
 },
 {
 glyphname = dagger;
-lastChange = "2017-12-06 08:45:22 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5317,7 +5336,7 @@ unicode = 2020;
 },
 {
 glyphname = daggerdbl;
-lastChange = "2017-12-06 08:45:42 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
@@ -5381,7 +5400,7 @@ unicode = 005E;
 {
 export = 0;
 glyphname = "oval-1.comp";
-lastChange = "2017-12-07 11:45:24 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -5768,7 +5787,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-400.comp";
-lastChange = "2017-12-07 11:46:04 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -5788,7 +5807,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-100.comp";
-lastChange = "2017-12-07 11:50:14 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -5808,7 +5827,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-600.comp";
-lastChange = "2017-12-07 11:46:04 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -5854,7 +5873,7 @@ width = 150;
 {
 export = 0;
 glyphname = "rect-300.comp";
-lastChange = "2017-12-07 11:45:50 +0000";
+lastChange = "2017-12-07 11:55:28 +0000";
 layers = (
 {
 components = (
@@ -5900,7 +5919,7 @@ width = 200;
 {
 export = 0;
 glyphname = "oval-0.5.comp";
-lastChange = "2017-12-06 11:42:35 +0000";
+lastChange = "2017-12-07 11:55:24 +0000";
 layers = (
 {
 components = (
