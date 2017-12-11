@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-/quotedblbase/quotesinglbase
+"/quotedblbase/quotesinglbase"
 );
 classes = (
 {
@@ -114,6 +114,10 @@ value = -200;
 {
 name = typoLineGap;
 value = 200;
+},
+{
+name = smallCapHeight;
+value = 400;
 }
 );
 descender = -200;
@@ -6109,17 +6113,17 @@ zero = -20;
 };
 V = {
 a = -15;
+ampersand = -10;
+comma = -65;
 e = -25;
 g = -15;
 i = -5;
-o = -15;
-s = -15;
-comma = -65;
-period = -75;
-slash = -80;
-semicolon = -5;
 numbersign = -15;
-ampersand = -10;
+o = -15;
+period = -75;
+s = -15;
+semicolon = -5;
+slash = -80;
 };
 a = {
 T = -10;
@@ -6221,6 +6225,7 @@ comma = {
 eight = -10;
 five = -10;
 guillemetleft = -15;
+guillemetright = 5;
 guilsinglright = 5;
 nine = -10;
 one = -100;
@@ -6228,7 +6233,6 @@ seven = -100;
 six = -10;
 three = -10;
 zero = -10;
-guillemetright = 5;
 };
 d = {
 a = -10;
@@ -6433,14 +6437,14 @@ Y = -65;
 slash = -45;
 };
 period = {
-nine = -15;
-seven = -100;
-six = -10;
-three = -10;
 eight = -10;
 five = -10;
 guillemetleft = -15;
+nine = -15;
 one = -100;
+seven = -100;
+six = -10;
+three = -10;
 zero = -10;
 };
 plus = {
