@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"/quotedblbase/quotesinglbase"
-);
 classes = (
 {
 automatic = 1;
@@ -124,6 +121,7 @@ descender = -200;
 id = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 weight = Bold;
 weightValue = 700;
+widthValue = 400;
 xHeight = 400;
 }
 );
@@ -1169,7 +1167,7 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2017-12-06 05:51:30 +0000";
+lastChange = "2017-12-12 11:11:57 +0000";
 layers = (
 {
 components = (
@@ -1384,7 +1382,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2017-12-07 11:43:43 +0000";
+lastChange = "2017-12-12 11:11:55 +0000";
 layers = (
 {
 components = (
@@ -5825,7 +5823,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-400.comp";
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2017-12-12 11:11:57 +0000";
 layers = (
 {
 components = (
@@ -6679,7 +6677,7 @@ slash = -45;
 };
 manufacturer = CIL;
 manufacturerURL = cil.rocks;
-unitsPerEm = 400;
+unitsPerEm = 800;
 versionMajor = 1;
 versionMinor = 0;
 }
