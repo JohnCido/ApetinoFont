@@ -3,7 +3,7 @@
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z j.alt A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni70B9";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v w x y z j_s_s.liga A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc";
 name = AllLetters;
 },
 {
@@ -20,7 +20,7 @@ name = Initial;
 },
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z j.alt A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni70B9 zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf fraction asterisk backslash periodcentered bullet colon comma ellipsis exclam exclamdown numbersign period question questiondown quotedbl quotesingle semicolon slash underscore periodcentered.alt braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright quotedblleft quotedblright quoteleft quoteright space cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot emptyset infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow lozenge at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl asciicircum";
+code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v w x y z j_s_s.liga A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf fraction periodcentered.alt colon.alt asterisk backslash periodcentered bullet colon comma ellipsis exclam exclamdown numbersign period question questiondown quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase space cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot emptyset infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow lozenge at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl asciicircum";
 name = All;
 },
 {
@@ -74,7 +74,7 @@ name = liga;
 );
 fontMaster = (
 {
-ascender = 600;
+ascender = 700;
 capHeight = 600;
 customParameters = (
 {
@@ -83,19 +83,19 @@ value = 100;
 },
 {
 name = winAscent;
-value = 600;
+value = 700;
 },
 {
 name = winDescent;
-value = 200;
+value = 300;
 },
 {
 name = hheaAscender;
-value = 600;
+value = 700;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -103,11 +103,11 @@ value = 200;
 },
 {
 name = typoAscender;
-value = 600;
+value = 700;
 },
 {
 name = typoDescender;
-value = -200;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -118,7 +118,7 @@ name = smallCapHeight;
 value = 400;
 }
 );
-descender = -200;
+descender = -300;
 id = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 weight = Bold;
 weightValue = 700;
@@ -6823,7 +6823,7 @@ slash = -45;
 };
 manufacturer = CIL;
 manufacturerURL = cil.rocks;
-unitsPerEm = 800;
+unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
 }
