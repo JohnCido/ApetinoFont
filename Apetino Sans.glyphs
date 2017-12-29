@@ -6004,6 +6004,7 @@ width = 300;
 },
 {
 glyphname = s.alt;
+lastChange = "2017-12-29 06:53:24 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -6073,6 +6074,7 @@ width = 376;
 },
 {
 glyphname = j_s_s.liga;
+lastChange = "2017-12-29 07:05:45 +0000";
 layers = (
 {
 components = (
@@ -6095,6 +6097,7 @@ width = 900;
 },
 {
 glyphname = e.alt;
+lastChange = "2017-12-29 06:54:06 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
