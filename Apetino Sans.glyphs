@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/j_s_s.liga
-);
 classes = (
 {
 automatic = 1;
