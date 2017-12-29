@@ -6126,6 +6126,22 @@ layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 width = 300;
 }
 );
+},
+{
+glyphname = dot;
+lastChange = "2017-12-29 08:15:17 +0000";
+layers = (
+{
+components = (
+{
+name = periodcentered.alt;
+}
+);
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+width = 200;
+}
+);
+unicode = E000;
 }
 );
 gridLength = 50;
