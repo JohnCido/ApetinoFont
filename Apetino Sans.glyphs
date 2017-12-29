@@ -5465,7 +5465,7 @@ width = 400;
 {
 export = 0;
 glyphname = _global;
-lastChange = "2017-12-06 11:51:29 +0000";
+lastChange = "2017-12-29 05:24:36 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -5501,8 +5501,8 @@ nodes = (
 {
 closed = 0;
 nodes = (
-"550 600 LINE",
-"550 -200 LINE"
+"500 600 LINE",
+"500 -200 LINE"
 );
 },
 {
@@ -5552,6 +5552,23 @@ closed = 0;
 nodes = (
 "250 600 LINE",
 "250 -200 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360.5 0 OFFCURVE",
+"450 89.5 OFFCURVE",
+"450 200 CURVE SMOOTH",
+"450 310.5 OFFCURVE",
+"360.5 400 OFFCURVE",
+"250 400 CURVE SMOOTH",
+"139.5 400 OFFCURVE",
+"50 310.5 OFFCURVE",
+"50 200 CURVE SMOOTH",
+"50 89.5 OFFCURVE",
+"139.5 0 OFFCURVE",
+"250 0 CURVE SMOOTH"
 );
 }
 );
