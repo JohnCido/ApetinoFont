@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"jss·"
+);
 classes = (
 {
 automatic = 1;
@@ -43,7 +46,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012#sub copyright by parenleft C parenright;\012#sub registered by parenleft R parenright;\012#sub at by parenleft a parenright;\012# ignore sub @All a' p e t i n o;\012# sub a' p e t i n o by a.init;\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;";
+code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;";
 name = calt;
 },
 {
@@ -67,8 +70,9 @@ code = "sub A by A.sc;\012sub B by B.sc;\012sub C by C.sc;\012sub D by D.sc;\012
 name = c2sc;
 },
 {
-code = "# ignore pos @All @All';\012# pos @All' <-50 0 0 0>;";
-name = kern;
+automatic = 1;
+code = "sub j s s by j_s_s.liga;\012";
+name = liga;
 }
 );
 fontMaster = (
