@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/uni9526_uni98DF_uni9001.liga jss"
+);
 classes = (
 {
 automatic = 1;
@@ -68,7 +71,7 @@ name = c2sc;
 },
 {
 automatic = 1;
-code = "sub j s s by j_s_s.liga;\012";
+code = "sub j s s by j_s_s.liga;\012sub uni9526 uni98DF uni9001 by uni9526_uni98DF_uni9001.liga;\012";
 name = liga;
 }
 );
@@ -2478,6 +2481,30 @@ transform = "{0, -1, 1, 0, 50, 400}";
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 width = 500;
+}
+);
+},
+{
+glyphname = uni9526_uni98DF_uni9001.liga;
+lastChange = "2018-01-01 12:16:14 +0000";
+layers = (
+{
+components = (
+{
+name = uni9526;
+transform = "{1, 0, 0, 1, -45.974, 0}";
+},
+{
+name = uni98DF;
+transform = "{1, 0, 0, 1, 398.013, 0}";
+},
+{
+name = uni9001;
+transform = "{1, 0, 0, 1, 853.591, 0}";
+}
+);
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+width = 1450;
 }
 );
 },
@@ -6486,29 +6513,6 @@ width = 200;
 }
 );
 unicode = E000;
-},
-{
-glyphname = uni9526_uni98DF_uni9001.liga;
-layers = (
-{
-components = (
-{
-name = uni9526;
-transform = "{1, 0, 0, 1, -45.974, 0}";
-},
-{
-name = uni98DF;
-transform = "{1, 0, 0, 1, 398.013, 0}";
-},
-{
-name = uni9001;
-transform = "{1, 0, 0, 1, 853.591, 0}";
-}
-);
-layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 1450;
-}
-);
 }
 );
 gridLength = 50;
@@ -7152,15 +7156,6 @@ a = -10;
 underscore = {
 T = -100;
 Y = -100;
-};
-uni9001 = {
-j_s_s.liga = 100;
-};
-uni9526 = {
-uni98DF = -52;
-};
-uni98DF = {
-uni9001 = -49;
 };
 v = {
 T = -10;
