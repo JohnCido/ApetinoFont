@@ -1525,21 +1525,6 @@ width = 376;
 );
 },
 {
-glyphname = s.normal;
-lastChange = "2018-01-01 12:50:53 +0000";
-layers = (
-{
-components = (
-{
-name = s.alt;
-}
-);
-layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 376;
-}
-);
-},
-{
 glyphname = t;
 lastChange = "2017-12-06 05:51:30 +0000";
 layers = (
@@ -6525,6 +6510,22 @@ width = 200;
 }
 );
 unicode = E000;
+},
+{
+glyphname = normals;
+lastChange = "2018-01-01 12:50:38 +0000";
+layers = (
+{
+components = (
+{
+name = s.alt;
+}
+);
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+width = 376;
+}
+);
+unicode = E001;
 }
 );
 gridLength = 50;
