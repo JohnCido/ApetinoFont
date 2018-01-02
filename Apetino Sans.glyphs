@@ -867,7 +867,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2017-12-07 11:43:40 +0000";
+lastChange = "2018-01-02 13:34:06 +0000";
 layers = (
 {
 components = (
@@ -1021,7 +1021,60 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2017-12-06 08:58:19 +0000";
+lastChange = "2018-01-02 13:34:17 +0000";
+layers = (
+{
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+paths = (
+{
+closed = 1;
+nodes = (
+"139.5 400 OFFCURVE",
+"50 310 OFFCURVE",
+"50 200 CURVE",
+"50 89.5 OFFCURVE",
+"139.5 0 OFFCURVE",
+"250 0 CURVE",
+"305 0 OFFCURVE",
+"349 18 OFFCURVE",
+"387.5 54.5 CURVE",
+"318 122.5 LINE",
+"300 107.5 OFFCURVE",
+"277.5 100 OFFCURVE",
+"250 100 CURVE",
+"213 100 OFFCURVE",
+"181 120 OFFCURVE",
+"164 150 CURVE",
+"443.5 150 LINE",
+"447.5 166 OFFCURVE",
+"450 182.5 OFFCURVE",
+"450 200 CURVE",
+"450 310 OFFCURVE",
+"360.5 400 OFFCURVE",
+"250 400 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"290 302.5 OFFCURVE",
+"325 276 OFFCURVE",
+"336 246.5 CURVE",
+"164 246.5 LINE",
+"174.5 276 OFFCURVE",
+"209 302.5 OFFCURVE",
+"250 302.5 CURVE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 0065;
+},
+{
+glyphname = e.alt;
+lastChange = "2018-01-02 13:26:20 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1065,60 +1118,7 @@ nodes = (
 );
 }
 );
-width = 491;
-}
-);
-unicode = 0065;
-},
-{
-glyphname = e.alt;
-lastChange = "2017-12-29 06:54:06 +0000";
-layers = (
-{
-layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-paths = (
-{
-closed = 1;
-nodes = (
-"139.5 400 OFFCURVE",
-"50 310 OFFCURVE",
-"50 200 CURVE",
-"50 89.5 OFFCURVE",
-"139.5 0 OFFCURVE",
-"250 0 CURVE",
-"305 0 OFFCURVE",
-"355 22 OFFCURVE",
-"391.5 58.5 CURVE",
-"320.5 129 LINE",
-"302.5 111 OFFCURVE",
-"277.5 100 OFFCURVE",
-"250 100 CURVE",
-"213 100 OFFCURVE",
-"181 120 OFFCURVE",
-"164 150 CURVE",
-"443.5 150 LINE",
-"447.5 166 OFFCURVE",
-"450 182.5 OFFCURVE",
-"450 200 CURVE",
-"450 310 OFFCURVE",
-"360.5 400 OFFCURVE",
-"250 400 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"287 300 OFFCURVE",
-"319 279.5 OFFCURVE",
-"336 250 CURVE",
-"164 250 LINE",
-"181 279.5 OFFCURVE",
-"213 300 OFFCURVE",
-"250 300 CURVE"
-);
-}
-);
-width = 500;
+width = 477;
 }
 );
 },
@@ -1300,7 +1300,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2017-12-06 07:18:06 +0000";
+lastChange = "2018-01-02 13:33:16 +0000";
 layers = (
 {
 components = (
@@ -1435,7 +1435,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2017-12-12 11:11:55 +0000";
+lastChange = "2018-01-02 13:34:47 +0000";
 layers = (
 {
 components = (
@@ -1694,6 +1694,57 @@ width = 500;
 }
 );
 unicode = 007A;
+},
+{
+export = 0;
+glyphname = e.backup;
+lastChange = "2018-01-02 13:26:39 +0000";
+layers = (
+{
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+paths = (
+{
+closed = 1;
+nodes = (
+"336 400 OFFCURVE",
+"414 336 OFFCURVE",
+"436 250 CURVE",
+"329 250 LINE",
+"312 280 OFFCURVE",
+"280 300 OFFCURVE",
+"243 300 CURVE",
+"206 300 OFFCURVE",
+"174 280 OFFCURVE",
+"157 250 CURVE",
+"50 250 LINE",
+"72 336 OFFCURVE",
+"150 400 OFFCURVE",
+"243 400 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"174 120 OFFCURVE",
+"206 100 OFFCURVE",
+"243 100 CURVE",
+"271 100 OFFCURVE",
+"296 111 OFFCURVE",
+"314 129 CURVE",
+"384 59 LINE",
+"348 22 OFFCURVE",
+"298 0 OFFCURVE",
+"243 0 CURVE",
+"150 0 OFFCURVE",
+"72 64 OFFCURVE",
+"50 150 CURVE",
+"157 150 LINE"
+);
+}
+);
+width = 485;
+}
+);
 },
 {
 glyphname = j_s_s.liga;
@@ -6744,10 +6795,11 @@ five = -25;
 c = {
 T = -95;
 Y = -75;
-a = -35;
+a = -30;
 h = -20;
 slash = -60;
 t = -10;
+e = -30;
 };
 comma = {
 eight = -10;
@@ -6784,6 +6836,7 @@ guilsinglright = -50;
 period = -55;
 slash = -60;
 v = -5;
+s = -5;
 };
 eight = {
 T = -20;
@@ -6904,7 +6957,7 @@ a = -10;
 e = -10;
 guillemetleft = -10;
 hyphen = -20;
-l = -10;
+l = -15;
 u = -20;
 };
 less = {
@@ -7028,7 +7081,7 @@ backslash = -50;
 c = -10;
 comma = -50;
 d = -10;
-e = -10;
+e = -30;
 g = -20;
 o = -25;
 period = -50;
@@ -7164,7 +7217,7 @@ asciitilde = -10;
 braceright = -10;
 bracketright = -10;
 comma = -100;
-e = -15;
+e = -25;
 numbersign = -30;
 o = -15;
 parenright = -10;
