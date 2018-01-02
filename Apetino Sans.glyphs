@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+we
+);
 classes = (
 {
 automatic = 1;
@@ -676,7 +679,7 @@ unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2017-12-07 11:43:00 +0000";
+lastChange = "2018-01-02 14:28:22 +0000";
 layers = (
 {
 components = (
@@ -817,7 +820,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2017-12-06 06:20:39 +0000";
+lastChange = "2018-01-02 14:28:35 +0000";
 layers = (
 {
 components = (
@@ -1021,7 +1024,7 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2018-01-02 14:24:10 +0000";
+lastChange = "2018-01-02 14:31:42 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1435,7 +1438,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2018-01-02 13:34:47 +0000";
+lastChange = "2018-01-02 14:30:12 +0000";
 layers = (
 {
 components = (
@@ -3659,7 +3662,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2018-01-02 14:29:52 +0000";
 layers = (
 {
 components = (
@@ -3790,7 +3793,7 @@ unicode = 003B;
 {
 color = 4;
 glyphname = slash;
-lastChange = "2017-12-07 11:44:45 +0000";
+lastChange = "2018-01-02 14:30:19 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -4038,7 +4041,7 @@ unicode = 00AB;
 },
 {
 glyphname = guillemetright;
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2018-01-02 14:29:06 +0000";
 layers = (
 {
 components = (
@@ -4080,7 +4083,7 @@ unicode = 2039;
 },
 {
 glyphname = guilsinglright;
-lastChange = "2017-12-07 11:55:26 +0000";
+lastChange = "2018-01-02 14:29:24 +0000";
 layers = (
 {
 components = (
@@ -6648,7 +6651,7 @@ colon = -100;
 comma = -100;
 d = -100;
 dollar = -10;
-e = -95;
+e = -155;
 eight = -20;
 f = -10;
 five = -40;
@@ -6823,20 +6826,14 @@ Y = -60;
 slash = -45;
 };
 e = {
-T = -105;
-Y = -90;
-a = -5;
+T = -155;
+Y = -100;
 c = -5;
-d = -15;
-g = -5;
-guillemetleft = -5;
-guillemetright = -10;
-guilsinglleft = -5;
-guilsinglright = -50;
-period = -55;
+guillemetright = -35;
+guilsinglright = -35;
+period = -15;
+slash = -35;
 s = -5;
-slash = -60;
-v = -5;
 };
 eight = {
 T = -20;
@@ -6954,7 +6951,7 @@ l = {
 T = -50;
 Y = -100;
 a = -10;
-e = -10;
+e = -5;
 guillemetleft = -10;
 hyphen = -20;
 l = -15;
@@ -7081,7 +7078,7 @@ backslash = -50;
 c = -10;
 comma = -50;
 d = -10;
-e = -30;
+e = -15;
 g = -20;
 o = -25;
 period = -50;
@@ -7131,7 +7128,7 @@ colon = -95;
 comma = -95;
 d = -95;
 dollar = -25;
-e = -90;
+e = -110;
 eight = -25;
 equal = -25;
 f = -35;
@@ -7217,7 +7214,7 @@ asciitilde = -10;
 braceright = -10;
 bracketright = -10;
 comma = -100;
-e = -25;
+e = -30;
 numbersign = -30;
 o = -15;
 parenright = -10;
@@ -7230,7 +7227,6 @@ w = {
 T = -10;
 Y = -20;
 a = -10;
-e = -5;
 };
 x = {
 T = -10;
