@@ -1725,57 +1725,6 @@ width = 500;
 unicode = 007A;
 },
 {
-export = 0;
-glyphname = e.backup;
-lastChange = "2018-01-02 13:26:39 +0000";
-layers = (
-{
-layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-paths = (
-{
-closed = 1;
-nodes = (
-"336 400 OFFCURVE",
-"414 336 OFFCURVE",
-"436 250 CURVE",
-"329 250 LINE",
-"312 280 OFFCURVE",
-"280 300 OFFCURVE",
-"243 300 CURVE",
-"206 300 OFFCURVE",
-"174 280 OFFCURVE",
-"157 250 CURVE",
-"50 250 LINE",
-"72 336 OFFCURVE",
-"150 400 OFFCURVE",
-"243 400 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"174 120 OFFCURVE",
-"206 100 OFFCURVE",
-"243 100 CURVE",
-"271 100 OFFCURVE",
-"296 111 OFFCURVE",
-"314 129 CURVE",
-"384 59 LINE",
-"348 22 OFFCURVE",
-"298 0 OFFCURVE",
-"243 0 CURVE",
-"150 0 OFFCURVE",
-"72 64 OFFCURVE",
-"50 150 CURVE",
-"157 150 LINE"
-);
-}
-);
-width = 485;
-}
-);
-},
-{
 glyphname = j_s_s.liga;
 lastChange = "2018-01-04 08:57:19 +0000";
 layers = (
@@ -6852,6 +6801,9 @@ Y = -140;
 a = -55;
 c = -55;
 };
+approxequal = {
+c = -5;
+};
 asciicircum = {
 T = -10;
 Y = -10;
@@ -6861,8 +6813,8 @@ asciitilde = {
 T = -100;
 Y = -10;
 a = -30;
-slash = -85;
 c = -5;
+slash = -85;
 };
 asterisk = {
 T = -50;
@@ -6931,8 +6883,8 @@ zero = -10;
 backslash = {
 T = -105;
 Y = -95;
-g = 5;
 c = -10;
+g = 5;
 };
 braceleft = {
 a = -10;
@@ -6951,28 +6903,28 @@ c = {
 T = -95;
 Y = -75;
 a = -30;
+asciitilde = -5;
+backslash = -75;
+c = -15;
 e = -30;
+e.alt = -15;
+eight = -15;
+five = -25;
+four = -15;
+guillemetright = -15;
+guilsinglright = -15;
 h = -20;
+nine = -10;
+numbersign = -30;
+parenright = -5;
+periodcentered.alt = -45;
+question = -75;
+quotedblbase = -50;
+quotesinglbase = -50;
 s = -45;
+seven = -150;
 slash = -60;
 t = -10;
-seven = -150;
-quotesinglbase = -50;
-quotedblbase = -50;
-question = -75;
-periodcentered.alt = -45;
-parenright = -5;
-numbersign = -30;
-nine = -10;
-guilsinglright = -15;
-guillemetright = -15;
-four = -15;
-five = -25;
-eight = -15;
-e.alt = -15;
-c = -15;
-backslash = -75;
-asciitilde = -5;
 };
 comma = {
 eight = -10;
@@ -7004,9 +6956,6 @@ guilsinglright = -35;
 period = -15;
 s = -20;
 slash = -35;
-};
-e.backup = {
-a = -5;
 };
 eight = {
 T = -20;
@@ -7387,8 +7336,8 @@ guilsinglleft = -300;
 guilsinglright = -300;
 };
 sterling = {
-five = -40;
 c = -15;
+five = -40;
 };
 summation = {
 a = -10;
@@ -7473,9 +7422,6 @@ T = -20;
 Y = -10;
 a = -10;
 slash = -45;
-};
-approxequal = {
-c = -5;
 };
 };
 };
