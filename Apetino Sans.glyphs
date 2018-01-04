@@ -199,43 +199,39 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2017-12-06 06:02:46 +0000";
+lastChange = "2018-01-03 14:48:38 +0000";
 layers = (
 {
 components = (
 {
-name = "rect-200.comp";
-transform = "{1, 0, 0, 1, 50, 200}";
+name = "curve-3.comp";
+transform = "{-1, 0, 0, 1, 350, 300}";
 },
 {
-name = "oval-half-clip45.comp";
-transform = "{1, 0, 0, -1, 50, 200}";
+name = "curve-3.comp";
+transform = "{-1, 0, 0, -1, 350, 300}";
 },
 {
-name = "oval-half-clip45.comp";
-transform = "{1, 0, 0, 1, 50, 400}";
+name = "curve-3-clip45.comp";
+transform = "{1, 0, 0, -1, 350, 300}";
+},
+{
+name = "curve-3-clip45.comp";
+transform = "{1, 0, 0, 1, 350, 300}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 436;
+width = 400;
 }
 );
 unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2017-12-06 06:05:24 +0000";
+lastChange = "2018-01-03 14:44:56 +0000";
 layers = (
 {
 components = (
-{
-name = "curve-2.comp";
-transform = "{1, 0, 0, 1, 250, 400}";
-},
-{
-name = "rect-200.comp";
-transform = "{1, 0, 0, 1, 350, 200}";
-},
 {
 name = "rect-100.comp";
 transform = "{1, 0, 0, 1, 150, 0}";
@@ -249,12 +245,16 @@ name = "rect-100.comp";
 transform = "{1, 0, 0, 1, 150, 500}";
 },
 {
-name = "curve-2.comp";
-transform = "{1, 0, 0, -1, 250, 200}";
+name = "curve-3.comp";
+transform = "{1, 0, 0, 1, 250, 300}";
+},
+{
+name = "curve-3.comp";
+transform = "{1, 0, 0, -1, 250, 300}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
+width = 600;
 }
 );
 unicode = 0044;
@@ -315,33 +315,37 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2017-12-06 06:07:24 +0000";
+lastChange = "2018-01-03 15:19:13 +0000";
 layers = (
 {
 components = (
 {
+name = "curve-3.comp";
+transform = "{1, 0, 0, -1, 350, 300}";
+},
+{
+name = "curve-3.comp";
+transform = "{-1, 0, 0, 1, 350, 300}";
+},
+{
+name = "curve-3.comp";
+transform = "{-1, 0, 0, -1, 350, 300}";
+},
+{
+name = "curve-3-clip45.comp";
+transform = "{1, 0, 0, 1, 350, 300}";
+},
+{
+name = "rect-200.comp";
+transform = "{0, 1, -1, 0, 650, 250}";
+},
+{
 name = "rect-50.comp";
-transform = "{1, 0, 0, 1, 350, 200}";
-},
-{
-name = "rect-200.comp";
-transform = "{0, -1, 1, 0, 250, 350}";
-},
-{
-name = "oval-half-clip45.comp";
-transform = "{1, 0, 0, 1, 50, 400}";
-},
-{
-name = "oval-half.comp";
-transform = "{1, 0, 0, -1, 50, 200}";
-},
-{
-name = "rect-200.comp";
-transform = "{1, 0, 0, 1, 50, 200}";
+transform = "{0, 1, -1, 0, 450, 250}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
+width = 700;
 }
 );
 unicode = 0047;
@@ -521,29 +525,29 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2017-12-06 06:13:32 +0000";
+lastChange = "2018-01-04 09:23:24 +0000";
 layers = (
 {
 components = (
 {
-name = "rect-200.comp";
-transform = "{1, 0, 0, 1, 50, 200}";
+name = "curve-3.comp";
+transform = "{1, 0, 0, 1, 350, 300}";
 },
 {
-name = "oval-half.comp";
-transform = "{1, 0, 0, 1, 50, 400}";
+name = "curve-3.comp";
+transform = "{-1, 0, 0, 1, 350, 300}";
 },
 {
-name = "rect-200.comp";
-transform = "{1, 0, 0, 1, 350, 200}";
+name = "curve-3.comp";
+transform = "{-1, 0, 0, -1, 350, 300}";
 },
 {
-name = "oval-half.comp";
-transform = "{1, 0, 0, -1, 50, 200}";
+name = "curve-3.comp";
+transform = "{1, 0, 0, -1, 350, 300}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
+width = 700;
 }
 );
 unicode = 004F;
@@ -579,7 +583,7 @@ unicode = 0050;
 },
 {
 glyphname = Q;
-lastChange = "2017-12-06 06:15:00 +0000";
+lastChange = "2018-01-03 15:06:49 +0000";
 layers = (
 {
 components = (
@@ -588,15 +592,19 @@ name = O;
 },
 {
 name = "curve-2.comp";
-transform = "{1, 0, 0, 1, 250, 100}";
+transform = "{1, 0, 0, 1, 450, 100}";
 },
 {
 name = "rect-100.comp";
-transform = "{1, 0, 0, 1, 350, 0}";
+transform = "{1, 0, 0, 1, 550, 0}";
+},
+{
+name = "rect-50.comp";
+transform = "{0, 1, -1, 0, 450, 200}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
+width = 700;
 }
 );
 unicode = 0051;
