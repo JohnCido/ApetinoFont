@@ -1774,20 +1774,20 @@ width = 485;
 },
 {
 glyphname = j_s_s.liga;
-lastChange = "2018-01-01 12:06:48 +0000";
+lastChange = "2018-01-04 08:57:19 +0000";
 layers = (
 {
 components = (
 {
-name = s;
+name = j.alt;
+},
+{
+name = s.alt;
 transform = "{1, 0, 0, 1, 300, 0}";
 },
 {
-name = s;
+name = s.alt;
 transform = "{1, 0, 0, 1, 600, 0}";
-},
-{
-name = j.alt;
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
