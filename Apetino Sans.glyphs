@@ -142,8 +142,9 @@ xHeight = 400;
 );
 glyphs = (
 {
+color = 2;
 glyphname = A;
-lastChange = "2018-01-04 17:34:44 +0000";
+lastChange = "2018-01-04 17:43:59 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -788,8 +789,9 @@ width = 500;
 unicode = 0055;
 },
 {
+color = 2;
 glyphname = V;
-lastChange = "2018-01-04 17:23:29 +0000";
+lastChange = "2018-01-04 17:43:59 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -854,8 +856,9 @@ width = 600;
 unicode = 0057;
 },
 {
+color = 2;
 glyphname = X;
-lastChange = "2018-01-04 17:34:18 +0000";
+lastChange = "2018-01-04 17:43:59 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -936,8 +939,9 @@ width = 500;
 );
 },
 {
+color = 2;
 glyphname = Y;
-lastChange = "2018-01-04 17:33:26 +0000";
+lastChange = "2018-01-04 17:43:59 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -983,8 +987,9 @@ width = 500;
 );
 },
 {
+color = 2;
 glyphname = Z;
-lastChange = "2018-01-04 17:05:01 +0000";
+lastChange = "2018-01-04 17:43:59 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1772,8 +1777,9 @@ width = 600;
 unicode = 0077;
 },
 {
+color = 2;
 glyphname = x;
-lastChange = "2018-01-04 16:50:14 +0000";
+lastChange = "2018-01-04 17:43:59 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
