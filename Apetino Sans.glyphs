@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+es
+);
 classes = (
 {
 automatic = 1;
@@ -1455,7 +1458,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2018-01-04 09:32:54 +0000";
+lastChange = "2018-01-04 09:53:24 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -6944,7 +6947,7 @@ c = -5;
 guillemetright = -35;
 guilsinglright = -35;
 period = -15;
-s = -45;
+s = -20;
 slash = -35;
 };
 eight = {
