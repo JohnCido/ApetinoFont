@@ -46,7 +46,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;\012\012sub backslash s by s.alt;";
+code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;\012\012sub backslash s by s.alt;\012sub backslash e by e.alt;";
 name = calt;
 },
 {
