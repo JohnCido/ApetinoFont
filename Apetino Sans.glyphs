@@ -901,7 +901,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2018-01-04 15:15:16 +0000";
+lastChange = "2018-01-04 15:29:57 +0000";
 layers = (
 {
 components = (
@@ -993,7 +993,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-01-04 15:18:36 +0000";
+lastChange = "2018-01-04 15:32:20 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1037,7 +1037,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2018-01-04 12:16:04 +0000";
+lastChange = "2018-01-04 15:32:33 +0000";
 layers = (
 {
 components = (
@@ -1055,7 +1055,7 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2018-01-04 15:16:28 +0000";
+lastChange = "2018-01-04 15:32:28 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1158,7 +1158,7 @@ width = 477;
 },
 {
 glyphname = f;
-lastChange = "2018-01-04 15:22:49 +0000";
+lastChange = "2018-01-04 15:28:13 +0000";
 layers = (
 {
 components = (
@@ -1183,7 +1183,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2018-01-04 15:22:50 +0000";
+lastChange = "2018-01-04 15:33:12 +0000";
 layers = (
 {
 components = (
@@ -3107,7 +3107,7 @@ unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2018-01-04 15:12:50 +0000";
+lastChange = "2018-01-04 15:29:25 +0000";
 layers = (
 {
 components = (
@@ -3428,7 +3428,7 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2018-01-04 15:13:12 +0000";
+lastChange = "2018-01-04 15:29:39 +0000";
 layers = (
 {
 components = (
@@ -5965,7 +5965,7 @@ unicode = 005E;
 {
 export = 0;
 glyphname = "oval-1.comp";
-lastChange = "2018-01-04 15:22:50 +0000";
+lastChange = "2018-01-04 15:28:14 +0000";
 layers = (
 {
 components = (
@@ -6369,7 +6369,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-400.comp";
-lastChange = "2018-01-04 15:22:50 +0000";
+lastChange = "2018-01-04 15:28:14 +0000";
 layers = (
 {
 components = (
@@ -6389,7 +6389,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-100.comp";
-lastChange = "2018-01-04 15:22:49 +0000";
+lastChange = "2018-01-04 15:28:13 +0000";
 layers = (
 {
 components = (
@@ -6683,6 +6683,7 @@ a = -65;
 c = -65;
 e = -65;
 f = -15;
+g = -65;
 };
 L = {
 T = -100;
@@ -6826,8 +6827,11 @@ asciitilde = {
 T = -100;
 Y = -10;
 a = -30;
-c = -5;
+c = -30;
 slash = -85;
+g = -30;
+e = -30;
+d = -30;
 };
 asterisk = {
 T = -50;
@@ -6942,6 +6946,7 @@ seven = -150;
 slash = -60;
 t = -10;
 trademark = -95;
+g = -30;
 };
 comma = {
 eight = -10;
@@ -7008,6 +7013,7 @@ three = -5;
 emptyset = {
 a = -60;
 f = -45;
+g = -60;
 };
 endash = {
 guillemetleft = -5;
@@ -7071,6 +7077,8 @@ g = {
 T = -100;
 Y = -90;
 j = 50;
+seven = -30;
+backslash = -35;
 };
 greater = {
 T = -100;
@@ -7084,6 +7092,7 @@ a = -55;
 d = -55;
 emdash = -10;
 endash = -10;
+g = -55;
 };
 guillemetright = {
 T = -10;
@@ -7097,6 +7106,7 @@ a = -55;
 d = -55;
 emdash = -10;
 endash = -10;
+g = -55;
 };
 guilsinglright = {
 J = -45;
@@ -7127,6 +7137,7 @@ a = -160;
 c = -160;
 e = -160;
 f = -15;
+g = -160;
 };
 j = {
 T = -100;
@@ -7139,6 +7150,7 @@ Y = -20;
 a = -10;
 e = -10;
 s = -15;
+g = -10;
 };
 l = {
 T = -50;
@@ -7176,6 +7188,11 @@ numbersign = {
 T = 20;
 Y = 15;
 slash = -145;
+a = -65;
+c = -65;
+e = -65;
+d = -65;
+g = -65;
 };
 o = {
 T = -100;
@@ -7234,6 +7251,7 @@ a = -50;
 c = -50;
 e = -50;
 f = -20;
+g = -50;
 };
 q = {
 T = -10;
@@ -7300,6 +7318,7 @@ a = -205;
 c = -205;
 e = -205;
 f = -15;
+g = -205;
 };
 s = {
 T = -10;
@@ -7326,6 +7345,7 @@ nine = -5;
 period = -100;
 slash = -95;
 e = -140;
+g = -30;
 };
 six = {
 T = -40;
@@ -7400,6 +7420,7 @@ c = -25;
 five = -40;
 e = -25;
 a = -25;
+g = -25;
 };
 summation = {
 a = -10;
