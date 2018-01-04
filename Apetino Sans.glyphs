@@ -1353,7 +1353,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2018-01-04 12:16:05 +0000";
+lastChange = "2018-01-04 17:54:04 +0000";
 layers = (
 {
 components = (
@@ -1370,17 +1370,13 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2018-01-04 12:16:06 +0000";
+lastChange = "2018-01-04 17:54:07 +0000";
 layers = (
 {
 components = (
 {
-name = "curve-2.comp";
-transform = "{0, -1, 1, 0, -50, 0}";
-},
-{
-name = "rect-400.comp";
-transform = "{1, 0, 0, 1, 50, 0}";
+name = l;
+transform = "{-1, 0, 0, 1, 200, -200}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1450,13 +1446,17 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2018-01-04 12:16:06 +0000";
+lastChange = "2018-01-04 17:51:04 +0000";
 layers = (
 {
 components = (
 {
-name = j;
-transform = "{-1, 0, 0, 1, 200, 200}";
+name = "curve-2.comp";
+transform = "{0, -1, -1, 0, 250, 200}";
+},
+{
+name = "rect-400.comp";
+transform = "{-1, 0, 0, 1, 150, 200}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
