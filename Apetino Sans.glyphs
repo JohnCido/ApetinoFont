@@ -424,7 +424,7 @@ unicode = 004A;
 {
 color = 2;
 glyphname = K;
-lastChange = "2017-12-06 08:35:54 +0000";
+lastChange = "2018-01-04 08:35:43 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -432,22 +432,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"150 300 LINE",
+"600 0 LINE",
+"285.5 314.5 LINE",
+"570.5 600 LINE",
+"429.5 600 LINE",
+"150 321 LINE",
 "150 600 LINE",
 "50 600 LINE",
 "50 0 LINE",
 "150 0 LINE",
-"150 159 LINE",
-"221 229 LINE",
-"450 0 LINE",
-"450 141 LINE",
-"291 300 LINE",
-"450 459 LINE",
-"450 600 LINE"
+"150 179.5 LINE",
+"214.5 244 LINE",
+"458.5 0 LINE"
 );
 }
 );
-width = 500;
+width = 650;
 }
 );
 unicode = 004B;
