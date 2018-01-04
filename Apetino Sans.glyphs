@@ -43,7 +43,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;";
+code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;\012\012sub backslash s by s.alt;";
 name = calt;
 },
 {
@@ -6873,6 +6873,7 @@ question = -50;
 quotedbl = -50;
 quotesingle = -50;
 r = -10;
+s = -15;
 seven = -30;
 slash = -55;
 t = -10;
@@ -6883,7 +6884,6 @@ x = -5;
 y = -10;
 z = -5;
 zero = -10;
-s = -15;
 };
 backslash = {
 T = -105;
@@ -6909,9 +6909,9 @@ Y = -75;
 a = -30;
 e = -30;
 h = -20;
+s = -45;
 slash = -60;
 t = -10;
-s = -45;
 };
 comma = {
 eight = -10;
@@ -6979,16 +6979,16 @@ f = {
 a = -25;
 asciitilde = -10;
 comma = -50;
+e = -30;
 f = -100;
 i = -100;
+o = -30;
 period = -50;
 quotedbl = -50;
 quotesingle = -50;
+s = -35;
 slash = -85;
 underscore = -50;
-s = -35;
-o = -30;
-e = -30;
 };
 five = {
 T = -20;
@@ -7024,11 +7024,11 @@ emdash = 5;
 endash = 5;
 };
 guilsinglleft = {
+O = -55;
 a = -55;
 d = -55;
 emdash = -10;
 endash = -10;
-O = -55;
 };
 guilsinglright = {
 J = -45;
@@ -7059,8 +7059,8 @@ k = {
 T = -10;
 Y = -20;
 a = -5;
-s = -15;
 e = -10;
+s = -15;
 };
 l = {
 T = -50;
@@ -7073,8 +7073,8 @@ l = -15;
 u = -20;
 };
 less = {
-Y = 5;
 O = -5;
+Y = 5;
 };
 m = {
 T = -10;
@@ -7103,9 +7103,9 @@ o = {
 T = -100;
 Y = -90;
 hyphen = -20;
+s = -15;
 slash = -55;
 x = -20;
-s = -15;
 };
 one = {
 a = -10;
@@ -7118,12 +7118,12 @@ slash = -55;
 parenleft = {
 a = -10;
 five = -20;
+g = -20;
 nine = -10;
 question = 10;
 three = -10;
-y = -20;
 u = -20;
-g = -20;
+y = -20;
 };
 parenright = {
 T = -10;
@@ -7214,15 +7214,15 @@ x = -50;
 s = {
 T = -10;
 Y = -30;
+a = -25;
+c = -25;
+d = -25;
 e = -5;
+g = -5;
+q = -5;
 question = -105;
 s = -20;
 slash = -45;
-q = -5;
-g = -5;
-d = -25;
-c = -25;
-a = -25;
 };
 seven = {
 a = -30;
@@ -7348,8 +7348,8 @@ parenright = -10;
 percent = 5;
 period = -100;
 question = -5;
-slash = -95;
 s = -35;
+slash = -95;
 };
 w = {
 T = -10;
