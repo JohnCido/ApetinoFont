@@ -6809,7 +6809,7 @@ i = -5;
 numbersign = -15;
 o = -15;
 period = -75;
-s = -15;
+s = -25;
 semicolon = -5;
 slash = -80;
 };
@@ -6883,6 +6883,7 @@ x = -5;
 y = -10;
 z = -5;
 zero = -10;
+s = -15;
 };
 backslash = {
 T = -105;
@@ -6900,6 +6901,7 @@ slash = -35;
 bracketleft = {
 a = -10;
 five = -25;
+g = -20;
 };
 c = {
 T = -95;
@@ -6909,6 +6911,7 @@ e = -30;
 h = -20;
 slash = -60;
 t = -10;
+s = -45;
 };
 comma = {
 eight = -10;
@@ -6938,7 +6941,7 @@ c = -5;
 guillemetright = -35;
 guilsinglright = -35;
 period = -15;
-s = -5;
+s = -45;
 slash = -35;
 };
 eight = {
@@ -6983,6 +6986,9 @@ quotedbl = -50;
 quotesingle = -50;
 slash = -85;
 underscore = -50;
+s = -35;
+o = -30;
+e = -30;
 };
 five = {
 T = -20;
@@ -7006,7 +7012,7 @@ a = 6;
 slash = -55;
 };
 guillemetleft = {
-O = -5;
+O = -55;
 a = -55;
 d = -55;
 emdash = -10;
@@ -7022,6 +7028,7 @@ a = -55;
 d = -55;
 emdash = -10;
 endash = -10;
+O = -55;
 };
 guilsinglright = {
 J = -45;
@@ -7052,6 +7059,8 @@ k = {
 T = -10;
 Y = -20;
 a = -5;
+s = -15;
+e = -10;
 };
 l = {
 T = -50;
@@ -7065,6 +7074,7 @@ u = -20;
 };
 less = {
 Y = 5;
+O = -5;
 };
 m = {
 T = -10;
@@ -7094,6 +7104,8 @@ T = -100;
 Y = -90;
 hyphen = -20;
 slash = -55;
+x = -20;
+s = -15;
 };
 one = {
 a = -10;
@@ -7109,6 +7121,9 @@ five = -20;
 nine = -10;
 question = 10;
 three = -10;
+y = -20;
+u = -20;
+g = -20;
 };
 parenright = {
 T = -10;
@@ -7192,7 +7207,7 @@ q = -10;
 quotedbl = -50;
 quotesingle = -50;
 r = -50;
-s = -20;
+s = -30;
 slash = -85;
 x = -50;
 };
@@ -7200,9 +7215,14 @@ s = {
 T = -10;
 Y = -30;
 e = -5;
-question = -55;
+question = -105;
 s = -20;
-slash = -35;
+slash = -45;
+q = -5;
+g = -5;
+d = -25;
+c = -25;
+a = -25;
 };
 seven = {
 a = -30;
@@ -7259,7 +7279,7 @@ q = -95;
 question = -5;
 quotedbl = -50;
 r = -40;
-s = -95;
+s = -125;
 six = -25;
 slash = -195;
 t = -15;
@@ -7288,6 +7308,7 @@ t = {
 T = -10;
 Y = -30;
 o = -10;
+s = -5;
 };
 three = {
 T = -20;
@@ -7328,6 +7349,7 @@ percent = 5;
 period = -100;
 question = -5;
 slash = -95;
+s = -35;
 };
 w = {
 T = -10;
@@ -7338,6 +7360,7 @@ x = {
 T = -10;
 Y = -20;
 a = -5;
+s = -5;
 };
 y = {
 T = -10;
