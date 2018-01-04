@@ -1044,7 +1044,7 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2018-01-04 09:05:39 +0000";
+lastChange = "2018-01-04 11:46:21 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1054,27 +1054,27 @@ closed = 1;
 nodes = (
 "134.5 400 OFFCURVE",
 "45 310.5 OFFCURVE",
-"45 200 CURVE",
+"45 200 CURVE SMOOTH",
 "45 83.5 OFFCURVE",
 "129 0 OFFCURVE",
-"245 0 CURVE",
+"245 0 CURVE SMOOTH",
 "300 0 OFFCURVE",
-"351.5 16 OFFCURVE",
-"395 50 CURVE",
-"325 120 LINE",
-"304.5 108.5 OFFCURVE",
+"348 17.5 OFFCURVE",
+"391.5 50 CURVE",
+"325.5 120.5 LINE",
+"305 109 OFFCURVE",
 "285 100 OFFCURVE",
-"245 100 CURVE",
+"245 100 CURVE SMOOTH",
 "198.5 100 OFFCURVE",
 "165 124.5 OFFCURVE",
 "153.5 160 CURVE",
 "443 160 LINE",
 "444.5 177 OFFCURVE",
 "445 186.5 OFFCURVE",
-"445 200 CURVE",
+"445 200 CURVE SMOOTH",
 "445 310.5 OFFCURVE",
 "355.5 400 OFFCURVE",
-"245 400 CURVE"
+"245 400 CURVE SMOOTH"
 );
 },
 {
@@ -1086,7 +1086,7 @@ nodes = (
 "159 250 LINE",
 "176 280 OFFCURVE",
 "208 300 OFFCURVE",
-"245 300 CURVE"
+"245 300 CURVE SMOOTH"
 );
 }
 );
@@ -1458,7 +1458,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2018-01-04 09:53:24 +0000";
+lastChange = "2018-01-04 11:44:16 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1466,64 +1466,64 @@ paths = (
 {
 closed = 1;
 nodes = (
-"240 276 LINE",
-"220.5 297 OFFCURVE",
+"242 277.5 LINE",
+"221 297.5 OFFCURVE",
 "204 309 OFFCURVE",
-"184 309 CURVE",
+"184 309 CURVE SMOOTH",
 "174.92 309 OFFCURVE",
-"167.413 307.024 OFFCURVE",
-"162.381 303.139 CURVE SMOOTH",
-"157.265 299.188 OFFCURVE",
-"155.5 294.767 OFFCURVE",
-"155.5 290 CURVE",
-"155.5 277.584 OFFCURVE",
-"162 268 OFFCURVE",
-"180.5 260.5 CURVE",
-"231.5 239.5 OFFCURVE",
+"169.5 307.5 OFFCURVE",
+"164.5 304.5 CURVE SMOOTH",
+"158.5 301 OFFCURVE",
+"155.5 294 OFFCURVE",
+"155.5 288 CURVE SMOOTH",
+"155.5 276.5 OFFCURVE",
+"163 268.5 OFFCURVE",
+"180.5 260.5 CURVE SMOOTH",
+"224.5 241.5 OFFCURVE",
 "267 217 OFFCURVE",
-"285.5 198 CURVE",
+"285.5 198 CURVE SMOOTH",
 "310.5 172.5 OFFCURVE",
-"321 149 OFFCURVE",
-"321 115 CURVE",
+"321 148.5 OFFCURVE",
+"321 115 CURVE SMOOTH",
 "321 79 OFFCURVE",
-"307.5 53.5 OFFCURVE",
-"281 31.5 CURVE",
+"307.5 54 OFFCURVE",
+"281 31.5 CURVE SMOOTH",
 "255 9.5 OFFCURVE",
 "222 0.5 OFFCURVE",
-"186.5 0.5 CURVE",
-"133 0.5 OFFCURVE",
-"81.5 22 OFFCURVE",
-"40 81 CURVE",
+"186.5 0.5 CURVE SMOOTH",
+"124 0.5 OFFCURVE",
+"79 24.5 OFFCURVE",
+"40 79.5 CURVE",
 "110 135 LINE",
-"122 115 OFFCURVE",
-"152.968 92.483 OFFCURVE",
-"179.468 92.483 CURVE",
-"191.13 92.483 OFFCURVE",
-"201.479 94.806 OFFCURVE",
-"208 99.173 CURVE SMOOTH",
-"212.745 102.35 OFFCURVE",
-"217.228 109.306 OFFCURVE",
-"217.228 115 CURVE",
-"217.228 124.4 OFFCURVE",
-"214.929 134.807 OFFCURVE",
-"199.048 146.078 CURVE",
-"180.548 158.578 OFFCURVE",
-"166.856 166.941 OFFCURVE",
-"133 183 CURVE",
-"81.5 207 OFFCURVE",
+"124 118.5 OFFCURVE",
+"149 92.5 OFFCURVE",
+"179 92.5 CURVE SMOOTH",
+"191.5 92.5 OFFCURVE",
+"201.5 95 OFFCURVE",
+"208 99.5 CURVE SMOOTH",
+"213 103.5 OFFCURVE",
+"217.5 110.5 OFFCURVE",
+"217.5 118 CURVE SMOOTH",
+"217.5 127.5 OFFCURVE",
+"213.5 136 OFFCURVE",
+"199.5 146.5 CURVE SMOOTH",
+"182 159.5 OFFCURVE",
+"167.5 166.5 OFFCURVE",
+"133 183 CURVE SMOOTH",
+"82 208 OFFCURVE",
 "62.5 244.5 OFFCURVE",
-"62.5 286.5 CURVE",
+"62.5 286.5 CURVE SMOOTH",
 "62.5 317 OFFCURVE",
 "74.5 344.5 OFFCURVE",
-"96.5 366.5 CURVE",
+"96.5 366.5 CURVE SMOOTH",
 "118 388 OFFCURVE",
 "146 400 OFFCURVE",
-"183 400 CURVE",
+"183 400 CURVE SMOOTH",
 "208 400 OFFCURVE",
 "228.5 395.5 OFFCURVE",
-"250.5 384.5 CURVE",
+"250.5 384.5 CURVE SMOOTH",
 "272.5 373.5 OFFCURVE",
-"292 359 OFFCURVE",
+"291 358 OFFCURVE",
 "307.5 339 CURVE"
 );
 }
@@ -6879,6 +6879,7 @@ question = -50;
 quotedbl = -50;
 quotesingle = -50;
 r = -10;
+s = -15;
 seven = -30;
 slash = -55;
 t = -10;
@@ -6889,7 +6890,6 @@ x = -5;
 y = -10;
 z = -5;
 zero = -10;
-s = -15;
 };
 backslash = {
 T = -105;
@@ -6915,9 +6915,9 @@ Y = -75;
 a = -30;
 e = -30;
 h = -20;
+s = -45;
 slash = -60;
 t = -10;
-s = -45;
 };
 comma = {
 eight = -10;
@@ -6985,16 +6985,16 @@ f = {
 a = -25;
 asciitilde = -10;
 comma = -50;
+e = -30;
 f = -100;
 i = -100;
+o = -30;
 period = -50;
 quotedbl = -50;
 quotesingle = -50;
+s = -35;
 slash = -85;
 underscore = -50;
-e = -30;
-o = -30;
-s = -35;
 };
 five = {
 T = -20;
@@ -7030,11 +7030,11 @@ emdash = 5;
 endash = 5;
 };
 guilsinglleft = {
+O = -55;
 a = -55;
 d = -55;
 emdash = -10;
 endash = -10;
-O = -55;
 };
 guilsinglright = {
 J = -45;
@@ -7079,8 +7079,8 @@ l = -15;
 u = -20;
 };
 less = {
-Y = 5;
 O = -5;
+Y = 5;
 };
 m = {
 T = -10;
@@ -7109,9 +7109,9 @@ o = {
 T = -100;
 Y = -90;
 hyphen = -20;
+s = -15;
 slash = -55;
 x = -20;
-s = -15;
 };
 one = {
 a = -10;
@@ -7124,12 +7124,12 @@ slash = -55;
 parenleft = {
 a = -10;
 five = -20;
+g = -20;
 nine = -10;
 question = 10;
 three = -10;
 u = -20;
 y = -20;
-g = -20;
 };
 parenright = {
 T = -10;
@@ -7220,15 +7220,15 @@ x = -50;
 s = {
 T = -10;
 Y = -30;
-e = -5;
-question = -105;
-s = -20;
-slash = -45;
 a = -25;
 c = -25;
 d = -25;
+e = -5;
 g = -5;
 q = -5;
+question = -105;
+s = -20;
+slash = -45;
 };
 seven = {
 a = -30;
@@ -7354,8 +7354,8 @@ parenright = -10;
 percent = 5;
 period = -100;
 question = -5;
-slash = -95;
 s = -35;
+slash = -95;
 };
 w = {
 T = -10;
