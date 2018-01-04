@@ -6725,10 +6725,10 @@ a = -65;
 L = {
 T = -100;
 Y = -100;
+a = -10;
 asterisk = -100;
 quotedbl = -100;
 quotesingle = -100;
-a = -10;
 };
 O = {
 Y = -20;
@@ -6736,12 +6736,12 @@ a = -5;
 };
 P = {
 Y = -20;
+a = -25;
 colon = -10;
 comma = -100;
 period = -100;
 semicolon = -10;
 slash = -110;
-a = -25;
 };
 Q = {
 Y = -20;
@@ -6751,8 +6751,8 @@ R = {
 T = -30;
 W = -10;
 Y = -30;
-y = -10;
 a = -5;
+y = -10;
 };
 S = {
 T = -65;
@@ -6827,14 +6827,28 @@ s = -25;
 semicolon = -5;
 slash = -80;
 };
+X = {
+a = -5;
+};
+Z = {
+a = -5;
+};
 a = {
 T = -10;
 Y = -90;
 a = -10;
+seven = -30;
+quotesinglbase = -25;
+quotedblleft = -10;
+quotedblbase = -25;
+question = -75;
+numbersign = -5;
+backslash = -35;
 };
 ampersand = {
 T = -125;
 Y = -140;
+a = -55;
 };
 asciicircum = {
 T = -10;
@@ -6845,6 +6859,7 @@ asciitilde = {
 T = -100;
 Y = -10;
 slash = -85;
+a = -30;
 };
 asterisk = {
 T = -50;
@@ -6898,6 +6913,17 @@ x = -5;
 y = -10;
 z = -5;
 zero = -10;
+quotesinglbase = -60;
+quotedblbase = -60;
+periodcentered = -5;
+guilsinglright = -45;
+guilsinglleft = -5;
+guillemetright = -45;
+guillemetleft = -5;
+fraction = -60;
+ellipsis = -10;
+bullet = -5;
+backslash = -95;
 };
 backslash = {
 T = -105;
@@ -6957,6 +6983,9 @@ guilsinglright = -35;
 period = -15;
 s = -20;
 slash = -35;
+};
+e.backup = {
+a = -5;
 };
 eight = {
 T = -20;
@@ -7238,6 +7267,9 @@ question = -105;
 s = -20;
 slash = -45;
 };
+s.alt = {
+a = -5;
+};
 seven = {
 a = -30;
 comma = -100;
@@ -7321,9 +7353,9 @@ five = -40;
 t = {
 T = -10;
 Y = -30;
+a = -15;
 o = -10;
 s = -5;
-a = -15;
 };
 three = {
 T = -20;
@@ -7396,17 +7428,26 @@ Y = -10;
 a = -10;
 slash = -45;
 };
-s.alt = {
+trademark = {
 a = -5;
 };
-e.backup = {
+summation = {
+a = -10;
+};
+radical = {
+a = -205;
+};
+product = {
+a = -50;
+};
+integral = {
+a = -160;
+};
+infinity = {
 a = -5;
 };
-Z = {
-a = -5;
-};
-X = {
-a = -5;
+emptyset = {
+a = -60;
 };
 };
 };
