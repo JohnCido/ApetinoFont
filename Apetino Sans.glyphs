@@ -143,7 +143,7 @@ xHeight = 400;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2018-01-03 15:18:19 +0000";
+lastChange = "2018-01-04 15:10:19 +0000";
 layers = (
 {
 components = (
@@ -176,7 +176,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2018-01-03 15:17:56 +0000";
+lastChange = "2018-01-04 15:10:20 +0000";
 layers = (
 {
 components = (
@@ -221,7 +221,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2018-01-03 14:48:38 +0000";
+lastChange = "2018-01-04 15:10:21 +0000";
 layers = (
 {
 components = (
@@ -250,7 +250,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2018-01-03 14:44:56 +0000";
+lastChange = "2018-01-04 15:10:21 +0000";
 layers = (
 {
 components = (
@@ -901,7 +901,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2018-01-04 12:16:00 +0000";
+lastChange = "2018-01-04 15:15:16 +0000";
 layers = (
 {
 components = (
@@ -993,7 +993,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-01-04 12:15:07 +0000";
+lastChange = "2018-01-04 15:15:30 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1055,7 +1055,7 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2018-01-04 11:46:21 +0000";
+lastChange = "2018-01-04 15:16:28 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -2911,7 +2911,7 @@ unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2018-01-04 15:11:42 +0000";
 layers = (
 {
 components = (
@@ -2933,7 +2933,7 @@ unicode = 0031;
 {
 color = 2;
 glyphname = two;
-lastChange = "2017-12-06 08:52:00 +0000";
+lastChange = "2018-01-04 15:11:52 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -3107,7 +3107,7 @@ unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2018-01-04 12:11:41 +0000";
+lastChange = "2018-01-04 15:12:50 +0000";
 layers = (
 {
 components = (
@@ -3428,7 +3428,7 @@ unicode = 002A;
 },
 {
 glyphname = backslash;
-lastChange = "2018-01-04 12:12:16 +0000";
+lastChange = "2018-01-04 15:13:12 +0000";
 layers = (
 {
 components = (
@@ -3673,7 +3673,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2018-01-04 12:12:47 +0000";
+lastChange = "2018-01-04 15:13:58 +0000";
 layers = (
 {
 components = (
@@ -3809,7 +3809,7 @@ unicode = 002F;
 },
 {
 glyphname = underscore;
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2018-01-04 15:14:11 +0000";
 layers = (
 {
 components = (
@@ -3863,7 +3863,7 @@ unicode = 007B;
 },
 {
 glyphname = braceright;
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2018-01-04 15:14:18 +0000";
 layers = (
 {
 components = (
@@ -3905,7 +3905,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2017-12-07 11:55:28 +0000";
+lastChange = "2018-01-04 15:14:23 +0000";
 layers = (
 {
 components = (
@@ -3947,7 +3947,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2018-01-04 12:13:01 +0000";
+lastChange = "2018-01-04 15:14:28 +0000";
 layers = (
 {
 components = (
@@ -4015,7 +4015,7 @@ unicode = 002D;
 },
 {
 glyphname = guillemetleft;
-lastChange = "2018-01-04 12:02:51 +0000";
+lastChange = "2018-01-04 15:14:34 +0000";
 layers = (
 {
 components = (
@@ -4053,7 +4053,7 @@ unicode = 00BB;
 {
 color = 4;
 glyphname = guilsinglleft;
-lastChange = "2018-01-04 12:03:08 +0000";
+lastChange = "2018-01-04 15:14:39 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -4094,7 +4094,7 @@ unicode = 203A;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2018-01-04 12:13:36 +0000";
+lastChange = "2018-01-04 15:14:49 +0000";
 layers = (
 {
 components = (
@@ -4183,7 +4183,7 @@ unicode = 2019;
 },
 {
 glyphname = quotesinglbase;
-lastChange = "2018-01-04 12:13:42 +0000";
+lastChange = "2018-01-04 15:14:59 +0000";
 layers = (
 {
 components = (
@@ -4950,7 +4950,7 @@ unicode = 221E;
 {
 color = 2;
 glyphname = integral;
-lastChange = "2017-12-06 08:32:59 +0000";
+lastChange = "2018-01-04 15:15:53 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -5764,7 +5764,7 @@ unicode = 00AE;
 },
 {
 glyphname = trademark;
-lastChange = "2017-12-07 11:55:24 +0000";
+lastChange = "2018-01-04 15:16:57 +0000";
 layers = (
 {
 components = (
@@ -6369,7 +6369,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-400.comp";
-lastChange = "2018-01-04 12:16:12 +0000";
+lastChange = "2018-01-04 15:10:21 +0000";
 layers = (
 {
 components = (
@@ -6389,7 +6389,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-100.comp";
-lastChange = "2018-01-04 12:16:09 +0000";
+lastChange = "2018-01-04 15:10:21 +0000";
 layers = (
 {
 components = (
@@ -6409,7 +6409,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-600.comp";
-lastChange = "2018-01-04 12:16:06 +0000";
+lastChange = "2018-01-04 15:10:21 +0000";
 layers = (
 {
 components = (
@@ -6681,6 +6681,7 @@ Y = -35;
 K = {
 a = -65;
 c = -65;
+e = -65;
 };
 L = {
 T = -100;
@@ -6810,6 +6811,7 @@ T = -125;
 Y = -140;
 a = -55;
 c = -55;
+e = -55;
 };
 approxequal = {
 c = -5;
@@ -6879,7 +6881,7 @@ quotesinglbase = -60;
 quotesingle = -50;
 r = -10;
 s = -15;
-seven = -30;
+seven = -150;
 slash = -55;
 t = -10;
 u = -10;
@@ -6889,12 +6891,15 @@ x = -5;
 y = -10;
 z = -5;
 zero = -10;
+trademark = -105;
 };
 backslash = {
 T = -105;
 Y = -95;
-c = -10;
+c = -20;
 g = 5;
+a = -20;
+e = -20;
 };
 braceleft = {
 a = -10;
@@ -6935,6 +6940,7 @@ s = -45;
 seven = -150;
 slash = -60;
 t = -10;
+trademark = -95;
 };
 comma = {
 eight = -10;
@@ -6966,6 +6972,21 @@ guilsinglright = -35;
 period = -15;
 s = -20;
 slash = -35;
+one = -55;
+two = -5;
+seven = -140;
+backslash = -75;
+question = -75;
+underscore = -15;
+braceright = -5;
+bracketright = -5;
+parenright = -15;
+guillemetleft = -10;
+guilsinglleft = -10;
+quotedblbase = -60;
+quotesinglbase = -60;
+integral = -15;
+trademark = -105;
 };
 eight = {
 T = -20;
@@ -7048,6 +7069,7 @@ guillemetright = {
 T = -10;
 emdash = 5;
 endash = 5;
+e = -10;
 };
 guilsinglleft = {
 O = -55;
@@ -7060,6 +7082,7 @@ guilsinglright = {
 J = -45;
 emdash = 5;
 endash = 5;
+e = -10;
 };
 h = {
 T = -100;
@@ -7082,6 +7105,7 @@ a = -5;
 integral = {
 a = -160;
 c = -160;
+e = -160;
 };
 j = {
 T = -100;
@@ -7187,6 +7211,7 @@ slash = -15;
 product = {
 a = -50;
 c = -50;
+e = -50;
 };
 q = {
 T = -10;
@@ -7251,6 +7276,7 @@ x = -50;
 radical = {
 a = -205;
 c = -205;
+e = -205;
 };
 s = {
 T = -10;
@@ -7276,6 +7302,7 @@ four = -50;
 nine = -5;
 period = -100;
 slash = -95;
+e = -140;
 };
 six = {
 T = -40;
@@ -7346,8 +7373,10 @@ guilsinglleft = -300;
 guilsinglright = -300;
 };
 sterling = {
-c = -15;
+c = -25;
 five = -40;
+e = -25;
+a = -25;
 };
 summation = {
 a = -10;
@@ -7373,6 +7402,7 @@ T = -20;
 Y = -10;
 a = -15;
 four = -5;
+e = -10;
 };
 u = {
 T = -10;
