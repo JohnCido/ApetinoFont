@@ -2910,32 +2910,37 @@ width = 500;
 unicode = 98DF;
 },
 {
-color = 0;
 glyphname = zero;
-lastChange = "2017-12-07 11:55:26 +0000";
+lastChange = "2018-01-04 09:41:08 +0000";
 layers = (
 {
 components = (
 {
-name = O;
+name = "curve-2.comp";
+transform = "{1, 0, 0, -1, 250, 200}";
+},
+{
+name = "rect-200.comp";
+transform = "{1, 0, 0, 1, 350, 200}";
+},
+{
+name = "curve-2.comp";
+transform = "{-1, 0, 0, -1, 250, 200}";
+},
+{
+name = "rect-200.comp";
+transform = "{1, 0, 0, 1, 50, 200}";
+},
+{
+name = "curve-2.comp";
+transform = "{1, 0, 0, 1, 250, 400}";
+},
+{
+name = "curve-2.comp";
+transform = "{-1, 0, 0, 1, 250, 400}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-paths = (
-{
-closed = 1;
-nodes = (
-"399 447 LINE",
-"260.5 429 OFFCURVE",
-"144.5 341.5 OFFCURVE",
-"87.5 220 CURVE",
-"154.5 100.5 LINE",
-"175.5 225.5 OFFCURVE",
-"274 324 OFFCURVE",
-"399 345.5 CURVE"
-);
-}
-);
 width = 500;
 }
 );
