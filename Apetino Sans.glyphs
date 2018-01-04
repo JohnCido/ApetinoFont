@@ -360,7 +360,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2017-12-06 06:08:03 +0000";
+lastChange = "2018-01-03 14:52:59 +0000";
 layers = (
 {
 components = (
@@ -370,15 +370,19 @@ transform = "{0, 1, -1, 0, 350, 250}";
 },
 {
 name = "rect-600.comp";
-transform = "{1, 0, 0, 1, 350, 0}";
+transform = "{1, 0, 0, 1, 400, 0}";
 },
 {
 name = "rect-600.comp";
 transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = "rect-50.comp";
+transform = "{0, 1, -1, 0, 400, 250}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
+width = 550;
 }
 );
 unicode = 0048;
@@ -508,13 +512,13 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2017-12-06 06:11:05 +0000";
+lastChange = "2018-01-03 14:56:46 +0000";
 layers = (
 {
 components = (
 {
 name = "curve-4.comp";
-transform = "{1, 0, 0, 1, 50, 200}";
+transform = "{1, 0, 0, 1, 100, 200}";
 },
 {
 name = "rect-600.comp";
@@ -522,11 +526,11 @@ transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = "rect-600.comp";
-transform = "{1, 0, 0, 1, 350, 0}";
+transform = "{1, 0, 0, 1, 400, 0}";
 }
 );
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
+width = 550;
 }
 );
 unicode = 004E;
