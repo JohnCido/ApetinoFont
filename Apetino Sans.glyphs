@@ -1166,7 +1166,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2018-01-05 07:11:20 +0000";
+lastChange = "2018-01-05 08:24:20 +0000";
 layers = (
 {
 components = (
@@ -1233,7 +1233,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2018-01-05 07:07:45 +0000";
+lastChange = "2018-01-05 08:07:00 +0000";
 layers = (
 {
 components = (
@@ -1258,7 +1258,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-01-05 07:11:34 +0000";
+lastChange = "2018-01-05 08:24:17 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1302,7 +1302,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2018-01-05 07:12:25 +0000";
+lastChange = "2018-01-05 08:24:04 +0000";
 layers = (
 {
 components = (
@@ -1320,7 +1320,7 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2018-01-05 07:11:42 +0000";
+lastChange = "2018-01-05 08:24:08 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1423,7 +1423,7 @@ width = 477;
 },
 {
 glyphname = f;
-lastChange = "2018-01-05 07:07:44 +0000";
+lastChange = "2018-01-05 08:15:29 +0000";
 layers = (
 {
 components = (
@@ -1448,7 +1448,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2018-01-05 07:13:57 +0000";
+lastChange = "2018-01-05 08:24:12 +0000";
 layers = (
 {
 components = (
@@ -1473,7 +1473,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2018-01-04 12:16:05 +0000";
+lastChange = "2018-01-05 08:14:25 +0000";
 layers = (
 {
 components = (
@@ -1557,7 +1557,7 @@ width = 300;
 {
 color = 0;
 glyphname = k;
-lastChange = "2018-01-04 12:16:06 +0000";
+lastChange = "2018-01-05 08:22:05 +0000";
 layers = (
 {
 components = (
@@ -1595,7 +1595,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2018-01-04 17:51:04 +0000";
+lastChange = "2018-01-05 08:17:56 +0000";
 layers = (
 {
 components = (
@@ -1662,7 +1662,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2018-01-05 07:11:51 +0000";
+lastChange = "2018-01-05 08:25:10 +0000";
 layers = (
 {
 components = (
@@ -1696,7 +1696,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2018-01-05 07:13:15 +0000";
+lastChange = "2018-01-05 08:25:03 +0000";
 layers = (
 {
 components = (
@@ -1734,7 +1734,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2018-01-04 11:44:16 +0000";
+lastChange = "2018-01-05 08:24:33 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1831,7 +1831,7 @@ width = 300;
 },
 {
 glyphname = t;
-lastChange = "2018-01-04 12:16:07 +0000";
+lastChange = "2018-01-05 08:22:42 +0000";
 layers = (
 {
 components = (
@@ -1856,7 +1856,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2018-01-04 12:16:07 +0000";
+lastChange = "2018-01-05 08:18:07 +0000";
 layers = (
 {
 components = (
@@ -1873,7 +1873,32 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2018-01-04 12:16:07 +0000";
+lastChange = "2018-01-05 08:23:35 +0000";
+layers = (
+{
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+paths = (
+{
+closed = 1;
+nodes = (
+"302.507 0 LINE",
+"450 400 LINE",
+"344.985 400 LINE",
+"250 142.402 LINE",
+"155.015 400 LINE",
+"50 400 LINE",
+"197.493 0 LINE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 0076;
+},
+{
+glyphname = v.alt;
+lastChange = "2018-01-05 08:10:46 +0000";
 layers = (
 {
 components = (
@@ -1890,7 +1915,6 @@ layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 width = 500;
 }
 );
-unicode = 0076;
 },
 {
 glyphname = w;
@@ -1928,7 +1952,7 @@ unicode = 0077;
 {
 color = 2;
 glyphname = x;
-lastChange = "2018-01-04 17:43:59 +0000";
+lastChange = "2018-01-05 08:24:28 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1978,7 +2002,7 @@ width = 500;
 },
 {
 glyphname = y;
-lastChange = "2018-01-04 12:16:08 +0000";
+lastChange = "2018-01-05 08:18:28 +0000";
 layers = (
 {
 components = (
@@ -7360,9 +7384,9 @@ slash = -55;
 t = -10;
 trademark = -105;
 u = -10;
-v = -10;
+v = -35;
 w = -10;
-x = -5;
+x = -50;
 y = -10;
 z = -5;
 zero = -10;
@@ -7416,6 +7440,11 @@ seven = -150;
 slash = -60;
 t = -10;
 trademark = -95;
+x = -25;
+d = -15;
+o = -25;
+q = -25;
+v = -15;
 };
 comma = {
 eight = -10;
@@ -7462,6 +7491,8 @@ slash = -35;
 trademark = -105;
 two = -5;
 underscore = -15;
+v = -35;
+x = -40;
 };
 eight = {
 T = -20;
@@ -7532,6 +7563,13 @@ radical = -35;
 s = -35;
 slash = -85;
 underscore = -50;
+b = -100;
+d = -5;
+g = -15;
+q = -15;
+h = -100;
+l = -100;
+t = -100;
 };
 five = {
 T = -20;
@@ -7588,6 +7626,7 @@ h = {
 T = -100;
 a = -10;
 question = -70;
+v = -25;
 };
 hyphen = {
 T = -100;
@@ -7621,16 +7660,26 @@ a = -10;
 e = -10;
 g = -10;
 s = -15;
+q = -5;
 };
 l = {
 T = -50;
 Y = -100;
-a = -15;
-e = -5;
+a = -5;
+e = -10;
 guillemetleft = -10;
 hyphen = -20;
 l = -15;
-u = -20;
+u = -5;
+d = -10;
+o = -5;
+q = -5;
+c = -5;
+g = -5;
+s = 10;
+t = -10;
+v = -85;
+y = -5;
 };
 less = {
 O = -5;
@@ -7670,7 +7719,8 @@ Y = -90;
 hyphen = -20;
 s = -15;
 slash = -55;
-x = -20;
+x = -50;
+v = -35;
 };
 one = {
 a = -10;
@@ -7679,6 +7729,8 @@ p = {
 T = -100;
 Y = -90;
 slash = -55;
+v = -35;
+x = -50;
 };
 parenleft = {
 a = -10;
@@ -7765,24 +7817,25 @@ t = -35;
 r = {
 T = -10;
 Y = -30;
-a = -25;
+a = -20;
 ampersand = -10;
 asciitilde = -10;
 backslash = -50;
-c = -10;
+c = -20;
 comma = -50;
-d = -10;
-e = -15;
+d = -20;
+e = -20;
 g = -20;
-o = -25;
+o = -20;
 period = -50;
-q = -10;
+q = -20;
 quotedbl = -50;
 quotesingle = -50;
 r = -50;
 s = -30;
 slash = -85;
 x = -50;
+f = -100;
 };
 radical = {
 a = -205;
@@ -7803,6 +7856,7 @@ q = -5;
 question = -105;
 s = -20;
 slash = -45;
+l = 5;
 };
 s.alt = {
 a = -5;
@@ -7931,22 +7985,26 @@ Y = -100;
 v = {
 T = -10;
 Y = -20;
-a = -30;
+a = -35;
 ampersand = -5;
 asciicircum = 5;
 asciitilde = -10;
 braceright = -10;
 bracketright = -10;
 comma = -100;
-e = -30;
+e = -35;
 numbersign = -30;
-o = -15;
+o = -35;
 parenright = -10;
 percent = 5;
 period = -100;
 question = -5;
 s = -35;
 slash = -95;
+c = -35;
+d = -35;
+q = -40;
+g = -40;
 };
 w = {
 T = -10;
@@ -7956,8 +8014,14 @@ a = -10;
 x = {
 T = -10;
 Y = -20;
-a = -10;
-s = -5;
+a = -50;
+s = -15;
+c = -50;
+e = -50;
+o = -50;
+q = -50;
+d = -50;
+g = -50;
 };
 y = {
 T = -10;
@@ -7971,6 +8035,8 @@ z = {
 T = -10;
 Y = -20;
 a = -5;
+q = -15;
+o = -15;
 };
 zero = {
 T = -20;
