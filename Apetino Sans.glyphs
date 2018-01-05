@@ -1233,7 +1233,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2018-01-05 08:07:00 +0000";
+lastChange = "2018-01-05 09:08:54 +0000";
 layers = (
 {
 components = (
@@ -1423,7 +1423,7 @@ width = 477;
 },
 {
 glyphname = f;
-lastChange = "2018-01-05 08:58:30 +0000";
+lastChange = "2018-01-05 09:10:16 +0000";
 layers = (
 {
 components = (
@@ -1502,7 +1502,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2018-01-05 08:59:11 +0000";
+lastChange = "2018-01-05 09:09:58 +0000";
 layers = (
 {
 components = (
@@ -1519,7 +1519,7 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2018-01-05 08:59:15 +0000";
+lastChange = "2018-01-05 09:10:03 +0000";
 layers = (
 {
 components = (
@@ -1595,7 +1595,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2018-01-05 08:29:25 +0000";
+lastChange = "2018-01-05 09:08:16 +0000";
 layers = (
 {
 components = (
@@ -1831,7 +1831,7 @@ width = 300;
 },
 {
 glyphname = t;
-lastChange = "2018-01-05 09:01:40 +0000";
+lastChange = "2018-01-05 09:09:09 +0000";
 layers = (
 {
 components = (
@@ -1895,26 +1895,6 @@ width = 500;
 }
 );
 unicode = 0076;
-},
-{
-glyphname = v.alt;
-lastChange = "2018-01-05 08:10:46 +0000";
-layers = (
-{
-components = (
-{
-name = "curve-4.comp";
-transform = "{1, 0, 0, -1, 50, 400}";
-},
-{
-name = "rect-400.comp";
-transform = "{1, 0, 0, 1, 50, 0}";
-}
-);
-layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 500;
-}
-);
 },
 {
 glyphname = w;
@@ -7654,14 +7634,11 @@ e = -30;
 eight = -25;
 ellipsis = -100;
 emptyset = -45;
-f = -100;
 five = -15;
 four = -15;
 guillemetright = -5;
 guilsinglright = -5;
-i = -100;
 integral = -100;
-j = -100;
 multiply = -5;
 numbersign = -45;
 o = -30;
@@ -7676,12 +7653,9 @@ radical = -35;
 s = -35;
 slash = -85;
 underscore = -50;
-b = -100;
 d = -5;
 g = -15;
 q = -15;
-l = -100;
-t = -100;
 A = -75;
 C = 10;
 J = -105;
@@ -7981,7 +7955,6 @@ r = -50;
 s = -30;
 slash = -85;
 x = -50;
-f = -100;
 A = -65;
 J = -115;
 S = -25;
