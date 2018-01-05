@@ -1166,7 +1166,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2018-01-05 09:28:59 +0000";
+lastChange = "2018-01-05 13:43:19 +0000";
 layers = (
 {
 components = (
@@ -1258,7 +1258,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-01-05 08:57:47 +0000";
+lastChange = "2018-01-05 13:43:35 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1302,7 +1302,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2018-01-05 08:58:09 +0000";
+lastChange = "2018-01-05 13:43:39 +0000";
 layers = (
 {
 components = (
@@ -1320,7 +1320,7 @@ unicode = 0064;
 {
 color = 0;
 glyphname = e;
-lastChange = "2018-01-05 08:58:15 +0000";
+lastChange = "2018-01-05 13:43:43 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1373,7 +1373,7 @@ unicode = 0065;
 },
 {
 glyphname = e.alt;
-lastChange = "2018-01-04 12:10:56 +0000";
+lastChange = "2018-01-05 13:42:27 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1448,7 +1448,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2018-01-05 08:58:36 +0000";
+lastChange = "2018-01-05 13:43:49 +0000";
 layers = (
 {
 components = (
@@ -1662,7 +1662,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2018-01-05 08:59:54 +0000";
+lastChange = "2018-01-05 13:44:11 +0000";
 layers = (
 {
 components = (
@@ -1696,7 +1696,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2018-01-05 09:00:54 +0000";
+lastChange = "2018-01-05 13:44:18 +0000";
 layers = (
 {
 components = (
@@ -1734,7 +1734,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2018-01-05 09:01:19 +0000";
+lastChange = "2018-01-05 13:42:40 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
@@ -1898,7 +1898,7 @@ unicode = 0076;
 },
 {
 glyphname = v.alt;
-lastChange = "2018-01-05 09:43:20 +0000";
+lastChange = "2018-01-05 13:42:08 +0000";
 layers = (
 {
 components = (
@@ -6696,7 +6696,7 @@ width = 100;
 {
 export = 0;
 glyphname = "rect-400.comp";
-lastChange = "2018-01-05 09:28:59 +0000";
+lastChange = "2018-01-05 13:39:53 +0000";
 layers = (
 {
 components = (
@@ -7306,6 +7306,7 @@ w = -40;
 x = -20;
 y = -40;
 z = -30;
+v.alt = -45;
 };
 W = {
 A = -120;
@@ -7337,6 +7338,7 @@ w = -30;
 x = -15;
 y = -30;
 z = -10;
+v.alt = -30;
 };
 X = {
 C = -85;
@@ -7389,6 +7391,7 @@ w = -60;
 x = -40;
 y = -60;
 z = -45;
+v.alt = -85;
 };
 Z = {
 C = -30;
@@ -8226,6 +8229,17 @@ T = -20;
 Y = -10;
 a = -10;
 slash = -45;
+};
+v.alt = {
+c = -30;
+e = -30;
+e.alt = -25;
+s = -35;
+a = -30;
+d = -30;
+g = -30;
+o = -30;
+q = -30;
 };
 };
 };
