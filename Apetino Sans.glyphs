@@ -20,7 +20,7 @@ name = Initial;
 },
 {
 automatic = 1;
-code = "A A.alt B C D E F G H I J K L M M.alt N N.alt O P Q R S T U V V.alt W W.alt X X.alt Y Y.alt Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v v.alt w x x.alt y z j_s_s.liga A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni9526_uni98DF_uni9001.liga uni9001 uni9526 uni98DF zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf fraction periodcentered.alt colon.alt asterisk backslash periodcentered bullet colon comma ellipsis exclam exclamdown numbersign period question questiondown quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase space cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot emptyset infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow lozenge at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl asciicircum dot style";
+code = "A A.alt B C D E F G H I J K L M M.alt N N.alt O P Q R S T U V V.alt W W.alt X X.alt Y Y.alt Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v v.alt w x x.alt y z j_s_s.liga A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni9526_uni98DF_uni9001.liga uni9001 uni9526 uni98DF zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf fraction periodcentered.alt colon.alt asterisk backslash periodcentered bullet colon comma ellipsis exclam exclamdown numbersign period question questiondown quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase space cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot emptyset infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow lozenge at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl asciicircum alt dot";
 name = All;
 },
 {
@@ -43,7 +43,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;\012\012sub style A by A.alt;\012sub style M by M.alt;\012sub style N by N.alt;\012sub style W by W.alt;\012sub style X by X.alt;\012sub style Y by Y.alt;\012\012sub style e by e.alt;\012sub style j by j.alt;\012sub style s by s.alt;\012sub style v by v.alt;\012sub style x by x.alt;";
+code = "#ignore sub @All @Medial';\012#sub @Medial' by @Initial;\012\012#sub a p e t i n o periodcentered' by periodcentered.alt;\012#sub j' s s by j.alt;\012sub j s s periodcentered' by periodcentered.alt;\012\012sub @Numbers @Numbers colon' @Numbers @Numbers by colon.alt;\012\012sub alt A by A.alt;\012sub alt M by M.alt;\012sub alt N by N.alt;\012sub alt W by W.alt;\012sub alt X by X.alt;\012sub alt Y by Y.alt;\012\012sub alt e by e.alt;\012sub alt j by j.alt;\012sub alt s by s.alt;\012sub alt v by v.alt;\012sub alt x by x.alt;";
 name = calt;
 },
 {
@@ -6933,6 +6933,35 @@ width = 175;
 );
 },
 {
+glyphname = alt;
+lastChange = "2018-01-05 13:34:21 +0000";
+layers = (
+{
+components = (
+{
+name = "rect-200.comp";
+transform = "{0, 1, -1, 0, 350, 50}";
+},
+{
+name = "rect-200.comp";
+transform = "{0, 1, -1, 0, 250, 250}";
+},
+{
+name = "curve-1.comp";
+transform = "{1, 0, 0, 1, 250, 250}";
+},
+{
+name = "curve-1.comp";
+transform = "{-1, 0, 0, -1, 150, 150}";
+}
+);
+layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
+width = 400;
+}
+);
+unicode = E000;
+},
+{
 glyphname = dot;
 lastChange = "2018-01-05 13:25:08 +0000";
 layers = (
@@ -6947,17 +6976,6 @@ width = 200;
 }
 );
 unicode = E001;
-},
-{
-glyphname = style;
-lastChange = "2018-01-05 13:18:20 +0000";
-layers = (
-{
-layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 0;
-}
-);
-unicode = E000;
 }
 );
 gridLength = 0;
