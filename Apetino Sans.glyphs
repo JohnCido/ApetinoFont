@@ -3,7 +3,7 @@
 classes = (
 {
 automatic = 1;
-code = "A A.alt B C D E F G H I J K L M M.alt N N.alt O P Q R S T U V V.alt W W.alt X X.alt Y Y.alt Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v v.alt w x x.alt y z j_s_s.liga A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni9526_uni98DF_uni9001.liga uni9001 uni9526 uni98DF";
+code = "A A.alt B C D E F G H I J K L M M.alt N N.alt O P Q R S T U V V.alt W W.alt X X.alt Y Y.alt Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v v.alt w x x.alt y z j_s_s A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni9526_uni98DF_uni9001.liga uni9001 uni9526 uni98DF";
 name = AllLetters;
 },
 {
@@ -20,7 +20,7 @@ name = Initial;
 },
 {
 automatic = 1;
-code = "A A.alt B C D E F G H I J K L M M.alt N N.alt O P Q R S T U V V.alt W W.alt X X.alt Y Y.alt Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v v.alt w x x.alt y z j_s_s.liga A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni9526_uni98DF_uni9001.liga uni9001 uni9526 uni98DF zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf fraction periodcentered.alt colon.alt asterisk backslash periodcentered bullet colon comma ellipsis exclam exclamdown numbersign period question questiondown quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase space cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot emptyset infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow lozenge at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl asciicircum alt dot";
+code = "A A.alt B C D E F G H I J K L M M.alt N N.alt O P Q R S T U V V.alt W W.alt X X.alt Y Y.alt Z a b c d e e.alt f g h i j j.alt k l m n o p q r s s.alt t u v v.alt w x x.alt y z j_s_s A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc uni9526_uni98DF_uni9001.liga uni9001 uni9526 uni98DF zero one two three four five six seven eight nine zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf fraction periodcentered.alt colon.alt asterisk backslash periodcentered bullet colon comma ellipsis exclam exclamdown numbersign period question questiondown quotedbl quotesingle semicolon slash underscore braceleft braceright bracketleft bracketright parenleft parenright emdash endash hyphen guillemetleft guillemetright guilsinglleft guilsinglright quotedblbase quotedblleft quotedblright quoteleft quoteright quotesinglbase space cent currency dollar euro sterling yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot emptyset infinity integral product summation radical partialdiff percent perthousand upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow lozenge at ampersand paragraph section copyright registered trademark degree bar brokenbar dagger daggerdbl asciicircum alt dot";
 name = All;
 },
 {
@@ -68,7 +68,12 @@ name = c2sc;
 },
 {
 automatic = 1;
-code = "sub j s s by j_s_s.liga;\012sub uni9526 uni98DF uni9001 by uni9526_uni98DF_uni9001.liga;\012";
+code = "sub j s s by j_s_s;\012";
+name = dlig;
+},
+{
+automatic = 1;
+code = "sub uni9526 uni98DF uni9001 by uni9526_uni98DF_uni9001.liga;\012";
 name = liga;
 }
 );
@@ -2055,8 +2060,8 @@ width = 500;
 unicode = 007A;
 },
 {
-glyphname = j_s_s.liga;
-lastChange = "2018-01-05 09:34:31 +0000";
+glyphname = j_s_s;
+lastChange = "2018-01-06 05:36:33 +0000";
 layers = (
 {
 components = (
