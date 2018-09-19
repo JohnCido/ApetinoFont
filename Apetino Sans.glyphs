@@ -62,8 +62,7 @@ code = "sub zero by zero.tf;\012sub one by one.tf;\012sub two by two.tf;\012sub 
 name = tnum;
 },
 {
-automatic = 1;
-code = "sub uni9526 uni98DF uni9001 by uni9526_uni98DF_uni9001.liga;\012sub f f by f_f.liga;\012sub f h by f_h.liga;\012sub f i by f_i.liga;\012sub f j by f_j.liga;\012sub f l by f_l.liga;\012sub f r by f_r.liga;\012sub f t by f_t.liga;\012";
+code = "sub uni9526 uni98DF uni9001 by uni9526_uni98DF_uni9001.liga;\012sub f f by f_f.liga;\012# sub f h by f_h.liga;\012sub f i by f_i.liga;\012sub f j by f_j.liga;\012# sub f l by f_l.liga;\012sub f r by f_r.liga;\012sub f t by f_t.liga;\012";
 name = liga;
 },
 {
@@ -2481,7 +2480,7 @@ rightKerningGroup = "0";
 },
 {
 glyphname = one;
-lastChange = "2018-09-19 09:48:42 +0000";
+lastChange = "2018-09-19 10:16:34 +0000";
 layers = (
 {
 components = (
@@ -7224,14 +7223,15 @@ space = -375;
 "@MMK_R_slash" = -43.75;
 };
 "@MMK_L_5" = {
-seven = -10;
+"@MMK_R_1" = -40;
+"@MMK_R_2" = -20;
+"@MMK_R_7" = -56.25;
+"@MMK_R_9" = -20;
 "@MMK_R_T" = -25;
 "@MMK_R_Y" = -25;
 "@MMK_R_parenright" = -25;
-"@MMK_R_7" = -56.25;
-"@MMK_R_9" = -20;
-"@MMK_R_2" = -20;
 "@MMK_R_slash" = -56.25;
+seven = -10;
 };
 "@MMK_L_4" = {
 "@MMK_R_Y" = 6.25;
