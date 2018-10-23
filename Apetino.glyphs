@@ -1003,7 +1003,7 @@ unicode = 0047;
 },
 {
 glyphname = Gbreve;
-lastChange = "2018-10-15 10:10:16 +0000";
+lastChange = "2018-10-23 10:18:50 +0000";
 layers = (
 {
 components = (
@@ -1020,11 +1020,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = G;
 unicode = 011E;
 },
 {
 glyphname = Gcommaaccent;
-lastChange = "2018-10-15 09:54:34 +0000";
+lastChange = "2018-10-23 10:18:50 +0000";
 layers = (
 {
 components = (
@@ -1041,11 +1042,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = G;
 unicode = 0122;
 },
 {
 glyphname = Gdotaccent;
-lastChange = "2018-10-15 10:10:33 +0000";
+lastChange = "2018-10-23 10:18:50 +0000";
 layers = (
 {
 components = (
@@ -1062,6 +1064,7 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = G;
 unicode = 0120;
 },
 {
@@ -1231,7 +1234,7 @@ unicode = 00CF;
 },
 {
 glyphname = Idotaccent;
-lastChange = "2018-10-15 09:57:39 +0000";
+lastChange = "2018-10-23 10:19:22 +0000";
 layers = (
 {
 components = (
@@ -1247,11 +1250,13 @@ layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 width = 250;
 }
 );
+leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 0130;
 },
 {
 glyphname = Igrave;
-lastChange = "2018-10-15 09:57:55 +0000";
+lastChange = "2018-10-23 10:19:22 +0000";
 layers = (
 {
 components = (
@@ -1268,11 +1273,12 @@ width = 250;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 00CC;
 },
 {
 glyphname = Imacron;
-lastChange = "2018-10-15 09:58:15 +0000";
+lastChange = "2018-10-23 10:19:22 +0000";
 layers = (
 {
 components = (
@@ -1289,11 +1295,12 @@ width = 250;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2018-10-15 09:58:27 +0000";
+lastChange = "2018-10-23 10:19:22 +0000";
 layers = (
 {
 components = (
@@ -1309,6 +1316,8 @@ layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
 width = 250;
 }
 );
+leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 012E;
 },
 {
@@ -1368,7 +1377,7 @@ unicode = 004B;
 },
 {
 glyphname = Kcommaaccent;
-lastChange = "2018-10-15 09:58:55 +0000";
+lastChange = "2018-10-23 10:19:33 +0000";
 layers = (
 {
 components = (
@@ -1385,6 +1394,7 @@ width = 812.5;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = K;
 unicode = 0136;
 },
 {
@@ -1593,7 +1603,7 @@ unicode = 0143;
 },
 {
 glyphname = Ncaron;
-lastChange = "2018-10-15 09:59:53 +0000";
+lastChange = "2018-10-23 10:19:52 +0000";
 layers = (
 {
 components = (
@@ -1611,11 +1621,12 @@ width = 750;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 0147;
 },
 {
 glyphname = Ncommaaccent;
-lastChange = "2018-10-15 10:00:16 +0000";
+lastChange = "2018-10-23 10:19:52 +0000";
 layers = (
 {
 components = (
@@ -1632,11 +1643,12 @@ width = 750;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 0145;
 },
 {
 glyphname = Eng;
-lastChange = "2018-10-22 11:37:53 +0000";
+lastChange = "2018-10-23 10:19:52 +0000";
 layers = (
 {
 components = (
@@ -1670,11 +1682,12 @@ width = 750;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 014A;
 },
 {
 glyphname = Ntilde;
-lastChange = "2018-10-15 10:00:45 +0000";
+lastChange = "2018-10-23 10:19:52 +0000";
 layers = (
 {
 components = (
@@ -1691,6 +1704,7 @@ width = 750;
 }
 );
 leftKerningGroup = B;
+rightKerningGroup = H;
 unicode = 00D1;
 },
 {
@@ -1726,7 +1740,7 @@ unicode = 004F;
 },
 {
 glyphname = Oacute;
-lastChange = "2018-10-15 10:01:12 +0000";
+lastChange = "2018-10-23 10:20:03 +0000";
 layers = (
 {
 components = (
@@ -1743,11 +1757,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D3;
 },
 {
 glyphname = Ocircumflex;
-lastChange = "2018-10-15 10:01:29 +0000";
+lastChange = "2018-10-23 10:20:03 +0000";
 layers = (
 {
 components = (
@@ -1764,11 +1779,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D4;
 },
 {
 glyphname = Odieresis;
-lastChange = "2018-10-15 10:01:43 +0000";
+lastChange = "2018-10-23 10:20:03 +0000";
 layers = (
 {
 components = (
@@ -1785,11 +1801,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D6;
 },
 {
 glyphname = Ograve;
-lastChange = "2018-10-15 10:02:05 +0000";
+lastChange = "2018-10-23 10:20:03 +0000";
 layers = (
 {
 components = (
@@ -1806,11 +1823,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D2;
 },
 {
 glyphname = Ohungarumlaut;
-lastChange = "2018-10-15 10:02:39 +0000";
+lastChange = "2018-10-23 10:20:03 +0000";
 layers = (
 {
 components = (
@@ -1827,11 +1845,12 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 0150;
 },
 {
 glyphname = Omacron;
-lastChange = "2018-10-15 10:02:57 +0000";
+lastChange = "2018-10-23 10:20:03 +0000";
 layers = (
 {
 components = (
@@ -1848,6 +1867,7 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 014C;
 },
 {
@@ -1926,7 +1946,7 @@ unicode = 00D8;
 },
 {
 glyphname = Otilde;
-lastChange = "2018-10-15 10:03:11 +0000";
+lastChange = "2018-10-23 10:20:10 +0000";
 layers = (
 {
 components = (
@@ -1943,6 +1963,7 @@ width = 875;
 }
 );
 leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 00D5;
 },
 {
@@ -3498,7 +3519,7 @@ unicode = 0063;
 },
 {
 glyphname = cacute;
-lastChange = "2018-09-20 06:28:19 +0000";
+lastChange = "2018-10-23 10:20:31 +0000";
 layers = (
 {
 components = (
@@ -3515,11 +3536,12 @@ width = 520;
 }
 );
 leftKerningGroup = a;
+rightKerningGroup = c;
 unicode = 0107;
 },
 {
 glyphname = ccaron;
-lastChange = "2018-10-15 09:05:07 +0000";
+lastChange = "2018-10-23 10:20:31 +0000";
 layers = (
 {
 components = (
@@ -3536,11 +3558,12 @@ width = 520;
 }
 );
 leftKerningGroup = a;
+rightKerningGroup = c;
 unicode = 010D;
 },
 {
 glyphname = ccedilla;
-lastChange = "2018-10-22 10:57:11 +0000";
+lastChange = "2018-10-23 10:20:31 +0000";
 layers = (
 {
 components = (
@@ -3557,11 +3580,12 @@ width = 520;
 }
 );
 leftKerningGroup = a;
+rightKerningGroup = c;
 unicode = 00E7;
 },
 {
 glyphname = cdotaccent;
-lastChange = "2018-09-20 06:28:10 +0000";
+lastChange = "2018-10-23 10:20:31 +0000";
 layers = (
 {
 components = (
@@ -3578,6 +3602,7 @@ width = 520;
 }
 );
 leftKerningGroup = a;
+rightKerningGroup = c;
 unicode = 010B;
 },
 {
