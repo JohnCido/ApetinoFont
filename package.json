@@ -1,0 +1,25 @@
+{
+  "name": "@johncido/apetino-fontface",
+  "version": "1.0.0",
+  "description": "Apetino font face",
+  "keywords": [
+    "Apetino",
+    "Font",
+    "Fontface"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnCido/ApetinoFont.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnCido/ApetinoFont/issues"
+  },
+  "homepage": "https://github.com/JohnCido/ApetinoFont#readme",
+  "files": [
+    "fonts",
+    "css",
+    "LICENSE"
+  ],
+  "author": "John Cido <johncido@outlook.com>",
+  "license": "SEE LICENSE IN LICENSE"
+}

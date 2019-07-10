@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Apetino Brand';
+  src:
+    url('../fonts/Apetino-Standard.woff2') format('woff2'),
+    url('../fonts/Apetino-Standard.woff') format('woff'),
+    url('../fonts/Apetino-Standard.ttf') format('truetype'),
+    url('../fonts/Apetino-Standard.otf') format('otf');
+  font-style: bold;
+  font-weight: 700;
+  font-display: block;
+}
