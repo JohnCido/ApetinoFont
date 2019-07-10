@@ -1,5 +1,9 @@
 {
-.appVersion = "1167";
+.appVersion = "1192";
+DisplayStrings = (
+"/Phi",
+"/Psi"
+);
 classes = (
 {
 automatic = 1;
@@ -6402,15 +6406,34 @@ unicode = 0393;
 },
 {
 glyphname = Delta;
-lastChange = "2018-12-17 08:47:34 +0000";
+lastChange = "2018-12-18 10:05:36 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"371.242 750 LINE",
+"58.747 0 LINE",
+"819.153 0 LINE",
+"506.658 750 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"438.95 587.5 LINE",
+"636.867 112.5 LINE",
+"241.033 112.5 LINE"
+);
 }
 );
-leftKerningGroup = Delta;
-rightKerningGroup = Delta;
+width = 877.9;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0394;
 },
 {
@@ -6524,15 +6547,29 @@ unicode = 039A;
 },
 {
 glyphname = Lambda;
-lastChange = "2018-12-17 08:47:34 +0000";
+lastChange = "2018-12-18 10:05:36 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"58.75 0 LINE",
+"194.161 0 LINE",
+"438.953 587.5 LINE",
+"683.745 0 LINE",
+"819.156 0 LINE",
+"506.661 750 LINE",
+"371.245 750 LINE"
+);
 }
 );
-leftKerningGroup = Delta;
-rightKerningGroup = Delta;
+width = 877.91;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 039B;
 },
 {
@@ -6617,11 +6654,20 @@ unicode = 039F;
 },
 {
 glyphname = Pi;
-lastChange = "2018-12-17 08:45:41 +0000";
+lastChange = "2018-12-18 10:03:29 +0000";
 layers = (
 {
+components = (
+{
+name = Gamma;
+},
+{
+name = "rect-600.comp";
+transform = "{1, 0, 0, 1, 562.5, 0}";
+}
+);
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 600;
+width = 750;
 }
 );
 leftKerningGroup = B;
@@ -6647,11 +6693,31 @@ unicode = 03A1;
 },
 {
 glyphname = Sigma;
-lastChange = "2018-12-17 08:36:47 +0000";
+lastChange = "2018-12-18 10:10:13 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"62.5 750 LINE",
+"62.5 607.959 LINE",
+"295.459 375 LINE",
+"62.5 142.041 LINE",
+"62.5 0 LINE",
+"625 0 LINE",
+"625 125 LINE",
+"204.549 125 LINE",
+"414.771 335.229 LINE",
+"414.771 414.771 LINE",
+"204.549 625 LINE",
+"625 625 LINE",
+"625 750 LINE"
+);
+}
+);
+width = 687.5;
 }
 );
 unicode = 03A3;
@@ -6694,11 +6760,11 @@ unicode = 03A5;
 },
 {
 glyphname = Phi;
-lastChange = "2018-12-17 08:45:58 +0000";
+lastChange = "2019-07-02 10:52:49 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 600;
+width = 1000;
 }
 );
 leftKerningGroup = O;
@@ -6722,11 +6788,11 @@ unicode = 03A7;
 },
 {
 glyphname = Psi;
-lastChange = "2018-12-17 08:36:47 +0000";
+lastChange = "2019-07-02 10:52:53 +0000";
 layers = (
 {
 layerId = "156A2E6C-2CEB-4630-8DE9-705D0EDBB142";
-width = 600;
+width = 1000;
 }
 );
 unicode = 03A8;
